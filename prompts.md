@@ -8,3 +8,4 @@
 - Asked to make the app live on GitHub. Checked the repository and found no Git remote or commit history; deployment is blocked until a destination repository is provided. Worked: not yet deployed.
 - Asked to try the GitHub deployment again. Re-requested a destination repository; the destination prompt was cancelled again. Worked: not yet deployed.
 - Asked to set the Git user name and email. Updated global Git configuration to `dougjjenkins` and `dougjen@byu.edu`. Worked: verified both values.
+- Asked to host the app on GitHub Pages. Located the public `dougjjenkins55/beam_app` repo, added a Pages deployment workflow that publishes only the app and data catalogs, and documented the `.github/` hosting exception. Worked: workflow is prepared; Pages must be enabled for GitHub Actions in repository settings before deployment can complete.

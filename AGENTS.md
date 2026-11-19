@@ -12,3 +12,5 @@ Use the numbered folders for all other project files:
 - `03_output/` for screenshots and exported results.
 
 Save every new file in the appropriate root location or numbered folder; do not add other files at the root.
+
+GitHub-specific configuration required for hosting belongs under `.github/`, such as deployment workflows in `.github/workflows/`.
