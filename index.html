@@ -3,29 +3,31 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#f5f7fa">
+    <meta name="theme-color" content="#f7f4ec">
     <title>Beam Designer</title>
     <style>
       :root {
         color-scheme: light;
         font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-        color: #172235;
-        background: #f5f7fa;
+        color: #193044;
+        background: #f7f4ec;
         font-synthesis: none;
         text-rendering: optimizeLegibility;
-        --ink: #172235;
-        --muted: #64748b;
-        --line: #dce3ec;
-        --blue: #1457a6;
-        --blue-dark: #0c3f7d;
-        --blue-soft: #eaf2fc;
-        --green: #147247;
-        --green-soft: #eaf6ef;
+        --ink: #193044;
+        --muted: #60717b;
+        --line: #ded8c9;
+        --blue: #167b86;
+        --blue-dark: #105d66;
+        --blue-soft: #e6f3f1;
+        --accent: #e9783d;
+        --accent-dark: #c85c29;
+        --green: #287348;
+        --green-soft: #eaf5e9;
         --red: #a33131;
         --red-soft: #fff0ef;
-        --amber: #80530a;
-        --amber-soft: #fff7e6;
-        --card: #fff;
+        --amber: #815522;
+        --amber-soft: #fff3dc;
+        --card: #fffdf8;
       }
 
       * {
@@ -35,6 +37,9 @@
       body {
         margin: 0;
         min-width: 320px;
+        background-color: #f7f4ec;
+        background-image: radial-gradient(#d8d2c3 0.75px, transparent 0.75px);
+        background-size: 22px 22px;
       }
 
       button,
@@ -48,9 +53,31 @@
       }
 
       .page-header {
+        position: relative;
+        overflow: hidden;
+        isolation: isolate;
         padding: 28px clamp(18px, 4vw, 56px) 25px;
         color: #fff;
-        background: linear-gradient(115deg, #102d52, #174f87);
+        background-color: #174c58;
+        background-image:
+          linear-gradient(#ffffff0d 1px, transparent 1px),
+          linear-gradient(90deg, #ffffff0d 1px, transparent 1px),
+          linear-gradient(120deg, #173b50, #167b86);
+        background-size: 28px 28px, 28px 28px, cover;
+      }
+
+      .page-header::after {
+        position: absolute;
+        z-index: -1;
+        top: -190px;
+        right: 7%;
+        width: 390px;
+        height: 390px;
+        border: 1px solid #ffffff24;
+        border-radius: 50%;
+        box-shadow: 0 0 0 28px #ffffff0a, 0 0 0 58px #ffffff08;
+        content: "";
+        pointer-events: none;
       }
 
       .header-inner,
@@ -67,10 +94,32 @@
         gap: 20px;
       }
 
+      .brand-kicker {
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+        margin-bottom: 5px;
+        color: #bce7dc;
+        font-size: 0.7rem;
+        font-weight: 800;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+      }
+
+      .brand-kicker::before {
+        width: 8px;
+        height: 8px;
+        border-radius: 2px;
+        background: #f5a46d;
+        content: "";
+        transform: rotate(45deg);
+      }
+
       h1 {
         margin: 0;
         font-size: clamp(1.7rem, 3vw, 2.25rem);
         letter-spacing: -0.035em;
+        text-shadow: 0 2px 0 #102f3b;
       }
 
       .page-header p {
@@ -82,10 +131,12 @@
 
       .header-tag {
         padding: 7px 11px;
-        border: 1px solid #ffffff50;
+        border: 1px solid #ffc08f99;
         border-radius: 999px;
-        color: #eaf3ff;
+        color: #fff4e8;
+        background: #102f3b55;
         font-size: 0.8rem;
+        font-weight: 700;
         white-space: nowrap;
       }
 
@@ -102,9 +153,9 @@
       .plot-card,
       .summary-card {
         border: 1px solid var(--line);
-        border-radius: 14px;
+        border-radius: 16px;
         background: var(--card);
-        box-shadow: 0 5px 18px #17223508;
+        box-shadow: 0 7px 20px #1930440d;
       }
 
       .controls {
@@ -200,9 +251,9 @@
       .load-row input:focus,
       .load-row select:focus,
       button:focus-visible {
-        outline: 3px solid #6aa2e755;
+        outline: 3px solid #e9783d55;
         outline-offset: 1px;
-        border-color: #3478c8;
+        border-color: var(--accent);
       }
 
       .unit-input {
@@ -236,8 +287,9 @@
         min-height: 40px;
         margin: 8px 0 0;
         padding: 9px 10px;
-        border-radius: 8px;
-        background: #f4f7fb;
+        border: 1px dashed #c9d8c8;
+        border-radius: 9px;
+        background: #f1f5e9;
       }
 
       .checkbox-row {
@@ -262,8 +314,8 @@
       .load-row {
         padding: 11px;
         border: 1px solid var(--line);
-        border-radius: 10px;
-        background: #fbfcfe;
+        border-radius: 12px;
+        background: #fffaf0;
       }
 
       .load-row-top {
@@ -330,29 +382,32 @@
         justify-content: center;
         min-height: 39px;
         padding: 8px 12px;
-        border: 1px solid #b8c8dc;
+        border: 1px solid #b8cfc9;
         border-radius: 8px;
-        color: #1c4d83;
-        background: #fff;
+        color: #155e66;
+        background: #fffdf8;
         font-size: 0.84rem;
         font-weight: 680;
+        transition: transform 140ms ease, box-shadow 140ms ease, background 140ms ease;
       }
 
       .button:hover {
-        background: #f1f6fc;
+        background: #eaf5f2;
+        box-shadow: 0 3px 8px #19304414;
+        transform: translateY(-1px);
       }
 
       .button.primary {
         width: 100%;
         min-height: 45px;
-        border-color: var(--blue);
+        border-color: var(--accent);
         color: #fff;
-        background: var(--blue);
+        background: var(--accent);
         font-size: 0.94rem;
       }
 
       .button.primary:hover {
-        background: var(--blue-dark);
+        background: var(--accent-dark);
       }
 
       .button.text {
@@ -376,10 +431,10 @@
 
       .status {
         padding: 12px 15px;
-        border: 1px solid #c9d8e9;
+        border: 1px solid #bbdcd4;
         border-radius: 10px;
-        color: #294b70;
-        background: #eef5fc;
+        color: #205a5a;
+        background: #edf7f0;
         font-size: 0.87rem;
         line-height: 1.45;
       }
@@ -416,6 +471,19 @@
       .summary-card {
         min-width: 0;
         padding: 13px 15px;
+        border-top: 3px solid var(--blue);
+      }
+
+      .summary-card:nth-child(2) {
+        border-top-color: var(--accent);
+      }
+
+      .summary-card:nth-child(3) {
+        border-top-color: #82a64b;
+      }
+
+      .summary-card:nth-child(4) {
+        border-top-color: #7d78b5;
       }
 
       .summary-label {
@@ -443,6 +511,8 @@
 
       .plot-card {
         overflow: hidden;
+        background-image: linear-gradient(#d7dfd422 1px, transparent 1px), linear-gradient(90deg, #d7dfd422 1px, transparent 1px);
+        background-size: 24px 24px;
       }
 
       .plot-head {
@@ -553,10 +623,11 @@
 
       .safety-note {
         padding: 12px 15px;
-        border-left: 3px solid #d5a744;
-        border-radius: 6px;
-        color: #6a501c;
-        background: #fff8e9;
+        border: 1px solid #f1d3a8;
+        border-left: 4px solid var(--accent);
+        border-radius: 9px;
+        color: #735324;
+        background: #fff6e8;
         font-size: 0.79rem;
         line-height: 1.5;
       }
@@ -630,10 +701,11 @@
     <header class="page-header">
       <div class="header-inner brand-row">
         <div>
+          <div class="brand-kicker">Your friendly structural sketchpad</div>
           <h1>Beam Designer</h1>
-          <p>Analyze reactions, shear, bending moment, and deflection for a simply supported beam or cantilever.</p>
+          <p>Set your span, add the loads, and see how your beam responds: reactions, shear, moment, and deflection in one place.</p>
         </div>
-        <span class="header-tag">Single-span analysis</span>
+        <span class="header-tag"><span aria-hidden="true">🦺</span> Beam lab</span>
       </div>
     </header>
 
