@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "title": "Nominal 2x sawn-lumber section geometry",
+    "source": "American Wood Council FAQ: How do I convert to metric lumber sizes?",
+    "source_url": "https://awc.org/faq/how-do-i-convert-to-metric-lumber-sizes/",
+    "units": {
+      "nominal_width_in": "in",
+      "nominal_depth_in": "in",
+      "actual_width_in": "in",
+      "actual_depth_in": "in",
+      "Ix_in4": "in^4",
+      "Sx_in3": "in^3"
+    },
+    "property_basis": "Rectangular section with actual depth vertical; Ix and Sx are calculated from actual dimensions.",
+    "material_properties_included": false,
+    "material_properties_note": "Species, grade, E, and allowable bending stress are not included. Supply verified values for the selected species and grade; do not treat geometry alone as a strength rating.",
+    "dimension_note": "The AWC FAQ lists soft metric conversions for these nominal sizes and explicitly illustrates the 2x4 actual size. The inch actual dimensions here are the corresponding customary sizes."
+  },
+  "sections": [
+    {
+      "id": "2x4",
+      "nominal_width_in": 2,
+      "nominal_depth_in": 4,
+      "actual_width_in": 1.5,
+      "actual_depth_in": 3.5,
+      "Ix_in4": 5.359375,
+      "Sx_in3": 3.0625
+    },
+    {
+      "id": "2x6",
+      "nominal_width_in": 2,
+      "nominal_depth_in": 6,
+      "actual_width_in": 1.5,
+      "actual_depth_in": 5.5,
+      "Ix_in4": 20.796875,
+      "Sx_in3": 7.5625
+    },
+    {
+      "id": "2x8",
+      "nominal_width_in": 2,
+      "nominal_depth_in": 8,
+      "actual_width_in": 1.5,
+      "actual_depth_in": 7.25,
+      "Ix_in4": 47.634766,
+      "Sx_in3": 13.140625
+    },
+    {
+      "id": "2x10",
+      "nominal_width_in": 2,
+      "nominal_depth_in": 10,
+      "actual_width_in": 1.5,
+      "actual_depth_in": 9.25,
+      "Ix_in4": 98.931641,
+      "Sx_in3": 21.390625
+    },
+    {
+      "id": "2x12",
+      "nominal_width_in": 2,
+      "nominal_depth_in": 12,
+      "actual_width_in": 1.5,
+      "actual_depth_in": 11.25,
+      "Ix_in4": 177.978516,
+      "Sx_in3": 31.640625
+    }
+  ]
+}

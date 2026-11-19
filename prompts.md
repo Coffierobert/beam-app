@@ -1,0 +1,8 @@
+# Prompts
+
+- Asked to set up the project folders and document where files belong. Added root-level starter files, folder READMEs, and the layout rule in `AGENTS.md`. Worked: all requested folders and files are present.
+- Asked for a review of the initial beam-designer plan and recommendations, especially real beam properties. Reviewed `spec.md` and provided recommendations without changing the specification or writing app code. Worked: review delivered; recommendations remain unapplied.
+- Asked to apply the review recommendations. Expanded `spec.md` with beam-property catalog requirements, explicit analysis and check assumptions, load definitions, output details, limitations, and reproducible validation assumptions. Worked: specification updated; no app code was written.
+- Asked to build the beam-property database. Added an AISC v16.0 W-shape catalog and common 2x lumber section geometry with source metadata; clarified the lumber material-property limitation in the data README and specification. Worked: catalog files generated and validation is in progress.
+- Asked to write the app code. Implemented the single-file beam analyzer in `index.html`, with catalog loading, beam/load inputs, reactions, shear/moment/deflection diagrams, checks, and responsive styling. Worked: browser checks matched the spec example, a cantilever point-load case, and the lumber section workflow.
+- Asked to make the app live on GitHub. Checked the repository and found no Git remote or commit history; deployment is blocked until a destination repository is provided. Worked: not yet deployed.

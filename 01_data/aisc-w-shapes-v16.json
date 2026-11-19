@@ -1,0 +1,2913 @@
+{
+  "metadata": {
+    "title": "AISC W-shape catalog",
+    "source": "AISC Shapes Database v16.0",
+    "source_url": "https://www.aisc.org/aisc/publications/steel-construction-manual/shapes-database-v160/",
+    "source_release": "16.0",
+    "units": {
+      "weight_lb_per_ft": "lb/ft",
+      "depth_in": "in",
+      "flange_width_in": "in",
+      "web_thickness_in": "in",
+      "flange_thickness_in": "in",
+      "Ix_in4": "in^4",
+      "Sx_in3": "in^3"
+    },
+    "notes": [
+      "Contains the 289 W-shape records from the v16.0 catalog.",
+      "E and allowable bending stress are material/design inputs and are not assigned by shape."
+    ]
+  },
+  "sections": [
+    {
+      "id": "W4X13",
+      "weight_lb_per_ft": 13,
+      "depth_in": 4.16,
+      "flange_width_in": 4.06,
+      "web_thickness_in": 0.28,
+      "flange_thickness_in": 0.35,
+      "Ix_in4": 11.3,
+      "Sx_in3": 5.46
+    },
+    {
+      "id": "W5X16",
+      "weight_lb_per_ft": 16,
+      "depth_in": 5.01,
+      "flange_width_in": 5,
+      "web_thickness_in": 0.24,
+      "flange_thickness_in": 0.36,
+      "Ix_in4": 21.4,
+      "Sx_in3": 8.55
+    },
+    {
+      "id": "W5X19",
+      "weight_lb_per_ft": 19,
+      "depth_in": 5.15,
+      "flange_width_in": 5.03,
+      "web_thickness_in": 0.27,
+      "flange_thickness_in": 0.43,
+      "Ix_in4": 26.3,
+      "Sx_in3": 10.2
+    },
+    {
+      "id": "W6X8.5",
+      "weight_lb_per_ft": 8.5,
+      "depth_in": 5.83,
+      "flange_width_in": 3.94,
+      "web_thickness_in": 0.17,
+      "flange_thickness_in": 0.2,
+      "Ix_in4": 14.9,
+      "Sx_in3": 5.1
+    },
+    {
+      "id": "W6X9",
+      "weight_lb_per_ft": 9,
+      "depth_in": 5.9,
+      "flange_width_in": 3.94,
+      "web_thickness_in": 0.17,
+      "flange_thickness_in": 0.22,
+      "Ix_in4": 16.4,
+      "Sx_in3": 5.56
+    },
+    {
+      "id": "W6X12",
+      "weight_lb_per_ft": 12,
+      "depth_in": 6.03,
+      "flange_width_in": 4,
+      "web_thickness_in": 0.23,
+      "flange_thickness_in": 0.28,
+      "Ix_in4": 22.1,
+      "Sx_in3": 7.31
+    },
+    {
+      "id": "W6X15",
+      "weight_lb_per_ft": 15,
+      "depth_in": 5.99,
+      "flange_width_in": 5.99,
+      "web_thickness_in": 0.23,
+      "flange_thickness_in": 0.26,
+      "Ix_in4": 29.1,
+      "Sx_in3": 9.72
+    },
+    {
+      "id": "W6X16",
+      "weight_lb_per_ft": 16,
+      "depth_in": 6.28,
+      "flange_width_in": 4.03,
+      "web_thickness_in": 0.26,
+      "flange_thickness_in": 0.41,
+      "Ix_in4": 32.1,
+      "Sx_in3": 10.2
+    },
+    {
+      "id": "W6X20",
+      "weight_lb_per_ft": 20,
+      "depth_in": 6.2,
+      "flange_width_in": 6.02,
+      "web_thickness_in": 0.26,
+      "flange_thickness_in": 0.37,
+      "Ix_in4": 41.4,
+      "Sx_in3": 13.4
+    },
+    {
+      "id": "W6X25",
+      "weight_lb_per_ft": 25,
+      "depth_in": 6.38,
+      "flange_width_in": 6.08,
+      "web_thickness_in": 0.32,
+      "flange_thickness_in": 0.46,
+      "Ix_in4": 53.4,
+      "Sx_in3": 16.7
+    },
+    {
+      "id": "W8X10",
+      "weight_lb_per_ft": 10,
+      "depth_in": 7.89,
+      "flange_width_in": 3.94,
+      "web_thickness_in": 0.17,
+      "flange_thickness_in": 0.21,
+      "Ix_in4": 30.8,
+      "Sx_in3": 7.81
+    },
+    {
+      "id": "W8X13",
+      "weight_lb_per_ft": 13,
+      "depth_in": 7.99,
+      "flange_width_in": 4,
+      "web_thickness_in": 0.23,
+      "flange_thickness_in": 0.26,
+      "Ix_in4": 39.6,
+      "Sx_in3": 9.91
+    },
+    {
+      "id": "W8X15",
+      "weight_lb_per_ft": 15,
+      "depth_in": 8.11,
+      "flange_width_in": 4.02,
+      "web_thickness_in": 0.25,
+      "flange_thickness_in": 0.32,
+      "Ix_in4": 48,
+      "Sx_in3": 11.8
+    },
+    {
+      "id": "W8X18",
+      "weight_lb_per_ft": 18,
+      "depth_in": 8.14,
+      "flange_width_in": 5.25,
+      "web_thickness_in": 0.23,
+      "flange_thickness_in": 0.33,
+      "Ix_in4": 61.9,
+      "Sx_in3": 15.2
+    },
+    {
+      "id": "W8X21",
+      "weight_lb_per_ft": 21,
+      "depth_in": 8.28,
+      "flange_width_in": 5.27,
+      "web_thickness_in": 0.25,
+      "flange_thickness_in": 0.4,
+      "Ix_in4": 75.3,
+      "Sx_in3": 18.2
+    },
+    {
+      "id": "W8X24",
+      "weight_lb_per_ft": 24,
+      "depth_in": 7.93,
+      "flange_width_in": 6.5,
+      "web_thickness_in": 0.25,
+      "flange_thickness_in": 0.4,
+      "Ix_in4": 82.7,
+      "Sx_in3": 20.9
+    },
+    {
+      "id": "W8X28",
+      "weight_lb_per_ft": 28,
+      "depth_in": 8.06,
+      "flange_width_in": 6.54,
+      "web_thickness_in": 0.29,
+      "flange_thickness_in": 0.47,
+      "Ix_in4": 98,
+      "Sx_in3": 24.3
+    },
+    {
+      "id": "W8X31",
+      "weight_lb_per_ft": 31,
+      "depth_in": 8,
+      "flange_width_in": 8,
+      "web_thickness_in": 0.29,
+      "flange_thickness_in": 0.44,
+      "Ix_in4": 110,
+      "Sx_in3": 27.5
+    },
+    {
+      "id": "W8X35",
+      "weight_lb_per_ft": 35,
+      "depth_in": 8.12,
+      "flange_width_in": 8.02,
+      "web_thickness_in": 0.31,
+      "flange_thickness_in": 0.5,
+      "Ix_in4": 127,
+      "Sx_in3": 31.2
+    },
+    {
+      "id": "W8X40",
+      "weight_lb_per_ft": 40,
+      "depth_in": 8.25,
+      "flange_width_in": 8.07,
+      "web_thickness_in": 0.36,
+      "flange_thickness_in": 0.56,
+      "Ix_in4": 146,
+      "Sx_in3": 35.5
+    },
+    {
+      "id": "W8X48",
+      "weight_lb_per_ft": 48,
+      "depth_in": 8.5,
+      "flange_width_in": 8.11,
+      "web_thickness_in": 0.4,
+      "flange_thickness_in": 0.69,
+      "Ix_in4": 184,
+      "Sx_in3": 43.2
+    },
+    {
+      "id": "W8X58",
+      "weight_lb_per_ft": 58,
+      "depth_in": 8.75,
+      "flange_width_in": 8.22,
+      "web_thickness_in": 0.51,
+      "flange_thickness_in": 0.81,
+      "Ix_in4": 228,
+      "Sx_in3": 52
+    },
+    {
+      "id": "W8X67",
+      "weight_lb_per_ft": 67,
+      "depth_in": 9,
+      "flange_width_in": 8.28,
+      "web_thickness_in": 0.57,
+      "flange_thickness_in": 0.94,
+      "Ix_in4": 272,
+      "Sx_in3": 60.4
+    },
+    {
+      "id": "W10X12",
+      "weight_lb_per_ft": 12,
+      "depth_in": 9.87,
+      "flange_width_in": 3.96,
+      "web_thickness_in": 0.19,
+      "flange_thickness_in": 0.21,
+      "Ix_in4": 53.8,
+      "Sx_in3": 10.9
+    },
+    {
+      "id": "W10X15",
+      "weight_lb_per_ft": 15,
+      "depth_in": 9.99,
+      "flange_width_in": 4,
+      "web_thickness_in": 0.23,
+      "flange_thickness_in": 0.27,
+      "Ix_in4": 68.9,
+      "Sx_in3": 13.8
+    },
+    {
+      "id": "W10X17",
+      "weight_lb_per_ft": 17,
+      "depth_in": 10.1,
+      "flange_width_in": 4.01,
+      "web_thickness_in": 0.24,
+      "flange_thickness_in": 0.33,
+      "Ix_in4": 81.9,
+      "Sx_in3": 16.2
+    },
+    {
+      "id": "W10X19",
+      "weight_lb_per_ft": 19,
+      "depth_in": 10.2,
+      "flange_width_in": 4.02,
+      "web_thickness_in": 0.25,
+      "flange_thickness_in": 0.4,
+      "Ix_in4": 96.3,
+      "Sx_in3": 18.8
+    },
+    {
+      "id": "W10X22",
+      "weight_lb_per_ft": 22,
+      "depth_in": 10.2,
+      "flange_width_in": 5.75,
+      "web_thickness_in": 0.24,
+      "flange_thickness_in": 0.36,
+      "Ix_in4": 118,
+      "Sx_in3": 23.2
+    },
+    {
+      "id": "W10X26",
+      "weight_lb_per_ft": 26,
+      "depth_in": 10.3,
+      "flange_width_in": 5.77,
+      "web_thickness_in": 0.26,
+      "flange_thickness_in": 0.44,
+      "Ix_in4": 144,
+      "Sx_in3": 27.9
+    },
+    {
+      "id": "W10X30",
+      "weight_lb_per_ft": 30,
+      "depth_in": 10.5,
+      "flange_width_in": 5.81,
+      "web_thickness_in": 0.3,
+      "flange_thickness_in": 0.51,
+      "Ix_in4": 170,
+      "Sx_in3": 32.4
+    },
+    {
+      "id": "W10X33",
+      "weight_lb_per_ft": 33,
+      "depth_in": 9.73,
+      "flange_width_in": 7.96,
+      "web_thickness_in": 0.29,
+      "flange_thickness_in": 0.44,
+      "Ix_in4": 171,
+      "Sx_in3": 35
+    },
+    {
+      "id": "W10X39",
+      "weight_lb_per_ft": 39,
+      "depth_in": 9.92,
+      "flange_width_in": 7.99,
+      "web_thickness_in": 0.32,
+      "flange_thickness_in": 0.53,
+      "Ix_in4": 209,
+      "Sx_in3": 42.1
+    },
+    {
+      "id": "W10X45",
+      "weight_lb_per_ft": 45,
+      "depth_in": 10.1,
+      "flange_width_in": 8.02,
+      "web_thickness_in": 0.35,
+      "flange_thickness_in": 0.62,
+      "Ix_in4": 248,
+      "Sx_in3": 49.1
+    },
+    {
+      "id": "W10X49",
+      "weight_lb_per_ft": 49,
+      "depth_in": 10,
+      "flange_width_in": 10,
+      "web_thickness_in": 0.34,
+      "flange_thickness_in": 0.56,
+      "Ix_in4": 272,
+      "Sx_in3": 54.6
+    },
+    {
+      "id": "W10X54",
+      "weight_lb_per_ft": 54,
+      "depth_in": 10.1,
+      "flange_width_in": 10,
+      "web_thickness_in": 0.37,
+      "flange_thickness_in": 0.62,
+      "Ix_in4": 303,
+      "Sx_in3": 60
+    },
+    {
+      "id": "W10X60",
+      "weight_lb_per_ft": 60,
+      "depth_in": 10.2,
+      "flange_width_in": 10.1,
+      "web_thickness_in": 0.42,
+      "flange_thickness_in": 0.68,
+      "Ix_in4": 341,
+      "Sx_in3": 66.7
+    },
+    {
+      "id": "W10X68",
+      "weight_lb_per_ft": 68,
+      "depth_in": 10.4,
+      "flange_width_in": 10.1,
+      "web_thickness_in": 0.47,
+      "flange_thickness_in": 0.77,
+      "Ix_in4": 394,
+      "Sx_in3": 75.7
+    },
+    {
+      "id": "W10X77",
+      "weight_lb_per_ft": 77,
+      "depth_in": 10.6,
+      "flange_width_in": 10.2,
+      "web_thickness_in": 0.53,
+      "flange_thickness_in": 0.87,
+      "Ix_in4": 455,
+      "Sx_in3": 85.9
+    },
+    {
+      "id": "W10X88",
+      "weight_lb_per_ft": 88,
+      "depth_in": 10.8,
+      "flange_width_in": 10.3,
+      "web_thickness_in": 0.61,
+      "flange_thickness_in": 0.99,
+      "Ix_in4": 534,
+      "Sx_in3": 98.5
+    },
+    {
+      "id": "W10X100",
+      "weight_lb_per_ft": 100,
+      "depth_in": 11.1,
+      "flange_width_in": 10.3,
+      "web_thickness_in": 0.68,
+      "flange_thickness_in": 1.12,
+      "Ix_in4": 623,
+      "Sx_in3": 112
+    },
+    {
+      "id": "W10X112",
+      "weight_lb_per_ft": 112,
+      "depth_in": 11.4,
+      "flange_width_in": 10.4,
+      "web_thickness_in": 0.76,
+      "flange_thickness_in": 1.25,
+      "Ix_in4": 716,
+      "Sx_in3": 126
+    },
+    {
+      "id": "W12X14",
+      "weight_lb_per_ft": 14,
+      "depth_in": 11.9,
+      "flange_width_in": 3.97,
+      "web_thickness_in": 0.2,
+      "flange_thickness_in": 0.23,
+      "Ix_in4": 88.6,
+      "Sx_in3": 14.9
+    },
+    {
+      "id": "W12X16",
+      "weight_lb_per_ft": 16,
+      "depth_in": 12,
+      "flange_width_in": 3.99,
+      "web_thickness_in": 0.22,
+      "flange_thickness_in": 0.27,
+      "Ix_in4": 103,
+      "Sx_in3": 17.1
+    },
+    {
+      "id": "W12X19",
+      "weight_lb_per_ft": 19,
+      "depth_in": 12.2,
+      "flange_width_in": 4.01,
+      "web_thickness_in": 0.24,
+      "flange_thickness_in": 0.35,
+      "Ix_in4": 130,
+      "Sx_in3": 21.3
+    },
+    {
+      "id": "W12X22",
+      "weight_lb_per_ft": 22,
+      "depth_in": 12.3,
+      "flange_width_in": 4.03,
+      "web_thickness_in": 0.26,
+      "flange_thickness_in": 0.43,
+      "Ix_in4": 156,
+      "Sx_in3": 25.4
+    },
+    {
+      "id": "W12X26",
+      "weight_lb_per_ft": 26,
+      "depth_in": 12.2,
+      "flange_width_in": 6.49,
+      "web_thickness_in": 0.23,
+      "flange_thickness_in": 0.38,
+      "Ix_in4": 204,
+      "Sx_in3": 33.4
+    },
+    {
+      "id": "W12X30",
+      "weight_lb_per_ft": 30,
+      "depth_in": 12.3,
+      "flange_width_in": 6.52,
+      "web_thickness_in": 0.26,
+      "flange_thickness_in": 0.44,
+      "Ix_in4": 238,
+      "Sx_in3": 38.6
+    },
+    {
+      "id": "W12X35",
+      "weight_lb_per_ft": 35,
+      "depth_in": 12.5,
+      "flange_width_in": 6.56,
+      "web_thickness_in": 0.3,
+      "flange_thickness_in": 0.52,
+      "Ix_in4": 285,
+      "Sx_in3": 45.6
+    },
+    {
+      "id": "W12X40",
+      "weight_lb_per_ft": 40,
+      "depth_in": 11.9,
+      "flange_width_in": 8.01,
+      "web_thickness_in": 0.3,
+      "flange_thickness_in": 0.52,
+      "Ix_in4": 307,
+      "Sx_in3": 51.5
+    },
+    {
+      "id": "W12X45",
+      "weight_lb_per_ft": 45,
+      "depth_in": 12.1,
+      "flange_width_in": 8.05,
+      "web_thickness_in": 0.34,
+      "flange_thickness_in": 0.58,
+      "Ix_in4": 348,
+      "Sx_in3": 57.7
+    },
+    {
+      "id": "W12X50",
+      "weight_lb_per_ft": 50,
+      "depth_in": 12.2,
+      "flange_width_in": 8.08,
+      "web_thickness_in": 0.37,
+      "flange_thickness_in": 0.64,
+      "Ix_in4": 391,
+      "Sx_in3": 64.2
+    },
+    {
+      "id": "W12X53",
+      "weight_lb_per_ft": 53,
+      "depth_in": 12.1,
+      "flange_width_in": 10,
+      "web_thickness_in": 0.35,
+      "flange_thickness_in": 0.58,
+      "Ix_in4": 425,
+      "Sx_in3": 70.6
+    },
+    {
+      "id": "W12X58",
+      "weight_lb_per_ft": 58,
+      "depth_in": 12.2,
+      "flange_width_in": 10,
+      "web_thickness_in": 0.36,
+      "flange_thickness_in": 0.64,
+      "Ix_in4": 475,
+      "Sx_in3": 78
+    },
+    {
+      "id": "W12X65",
+      "weight_lb_per_ft": 65,
+      "depth_in": 12.1,
+      "flange_width_in": 12,
+      "web_thickness_in": 0.39,
+      "flange_thickness_in": 0.61,
+      "Ix_in4": 533,
+      "Sx_in3": 87.9
+    },
+    {
+      "id": "W12X72",
+      "weight_lb_per_ft": 72,
+      "depth_in": 12.3,
+      "flange_width_in": 12,
+      "web_thickness_in": 0.43,
+      "flange_thickness_in": 0.67,
+      "Ix_in4": 597,
+      "Sx_in3": 97.4
+    },
+    {
+      "id": "W12X79",
+      "weight_lb_per_ft": 79,
+      "depth_in": 12.4,
+      "flange_width_in": 12.1,
+      "web_thickness_in": 0.47,
+      "flange_thickness_in": 0.74,
+      "Ix_in4": 662,
+      "Sx_in3": 107
+    },
+    {
+      "id": "W12X87",
+      "weight_lb_per_ft": 87,
+      "depth_in": 12.5,
+      "flange_width_in": 12.1,
+      "web_thickness_in": 0.52,
+      "flange_thickness_in": 0.81,
+      "Ix_in4": 740,
+      "Sx_in3": 118
+    },
+    {
+      "id": "W12X96",
+      "weight_lb_per_ft": 96,
+      "depth_in": 12.7,
+      "flange_width_in": 12.2,
+      "web_thickness_in": 0.55,
+      "flange_thickness_in": 0.9,
+      "Ix_in4": 833,
+      "Sx_in3": 131
+    },
+    {
+      "id": "W12X106",
+      "weight_lb_per_ft": 106,
+      "depth_in": 12.9,
+      "flange_width_in": 12.2,
+      "web_thickness_in": 0.61,
+      "flange_thickness_in": 0.99,
+      "Ix_in4": 933,
+      "Sx_in3": 145
+    },
+    {
+      "id": "W12X120",
+      "weight_lb_per_ft": 120,
+      "depth_in": 13.1,
+      "flange_width_in": 12.3,
+      "web_thickness_in": 0.71,
+      "flange_thickness_in": 1.11,
+      "Ix_in4": 1070,
+      "Sx_in3": 163
+    },
+    {
+      "id": "W12X136",
+      "weight_lb_per_ft": 136,
+      "depth_in": 13.4,
+      "flange_width_in": 12.4,
+      "web_thickness_in": 0.79,
+      "flange_thickness_in": 1.25,
+      "Ix_in4": 1240,
+      "Sx_in3": 186
+    },
+    {
+      "id": "W12X152",
+      "weight_lb_per_ft": 152,
+      "depth_in": 13.7,
+      "flange_width_in": 12.5,
+      "web_thickness_in": 0.87,
+      "flange_thickness_in": 1.4,
+      "Ix_in4": 1430,
+      "Sx_in3": 209
+    },
+    {
+      "id": "W12X170",
+      "weight_lb_per_ft": 170,
+      "depth_in": 14,
+      "flange_width_in": 12.6,
+      "web_thickness_in": 0.96,
+      "flange_thickness_in": 1.56,
+      "Ix_in4": 1650,
+      "Sx_in3": 235
+    },
+    {
+      "id": "W12X190",
+      "weight_lb_per_ft": 190,
+      "depth_in": 14.4,
+      "flange_width_in": 12.7,
+      "web_thickness_in": 1.06,
+      "flange_thickness_in": 1.74,
+      "Ix_in4": 1890,
+      "Sx_in3": 263
+    },
+    {
+      "id": "W12X210",
+      "weight_lb_per_ft": 210,
+      "depth_in": 14.7,
+      "flange_width_in": 12.8,
+      "web_thickness_in": 1.18,
+      "flange_thickness_in": 1.9,
+      "Ix_in4": 2140,
+      "Sx_in3": 292
+    },
+    {
+      "id": "W12X230",
+      "weight_lb_per_ft": 230,
+      "depth_in": 15.1,
+      "flange_width_in": 12.9,
+      "web_thickness_in": 1.29,
+      "flange_thickness_in": 2.07,
+      "Ix_in4": 2420,
+      "Sx_in3": 321
+    },
+    {
+      "id": "W12X252",
+      "weight_lb_per_ft": 252,
+      "depth_in": 15.4,
+      "flange_width_in": 13,
+      "web_thickness_in": 1.4,
+      "flange_thickness_in": 2.25,
+      "Ix_in4": 2720,
+      "Sx_in3": 353
+    },
+    {
+      "id": "W12X279",
+      "weight_lb_per_ft": 279,
+      "depth_in": 15.9,
+      "flange_width_in": 13.1,
+      "web_thickness_in": 1.53,
+      "flange_thickness_in": 2.47,
+      "Ix_in4": 3110,
+      "Sx_in3": 393
+    },
+    {
+      "id": "W12X305",
+      "weight_lb_per_ft": 305,
+      "depth_in": 16.3,
+      "flange_width_in": 13.2,
+      "web_thickness_in": 1.63,
+      "flange_thickness_in": 2.71,
+      "Ix_in4": 3550,
+      "Sx_in3": 435
+    },
+    {
+      "id": "W12X336",
+      "weight_lb_per_ft": 336,
+      "depth_in": 16.8,
+      "flange_width_in": 13.4,
+      "web_thickness_in": 1.78,
+      "flange_thickness_in": 2.96,
+      "Ix_in4": 4060,
+      "Sx_in3": 483
+    },
+    {
+      "id": "W14X22",
+      "weight_lb_per_ft": 22,
+      "depth_in": 13.7,
+      "flange_width_in": 5,
+      "web_thickness_in": 0.23,
+      "flange_thickness_in": 0.34,
+      "Ix_in4": 199,
+      "Sx_in3": 29
+    },
+    {
+      "id": "W14X26",
+      "weight_lb_per_ft": 26,
+      "depth_in": 13.9,
+      "flange_width_in": 5.03,
+      "web_thickness_in": 0.26,
+      "flange_thickness_in": 0.42,
+      "Ix_in4": 245,
+      "Sx_in3": 35.3
+    },
+    {
+      "id": "W14X30",
+      "weight_lb_per_ft": 30,
+      "depth_in": 13.8,
+      "flange_width_in": 6.73,
+      "web_thickness_in": 0.27,
+      "flange_thickness_in": 0.39,
+      "Ix_in4": 291,
+      "Sx_in3": 42
+    },
+    {
+      "id": "W14X34",
+      "weight_lb_per_ft": 34,
+      "depth_in": 14,
+      "flange_width_in": 6.75,
+      "web_thickness_in": 0.29,
+      "flange_thickness_in": 0.46,
+      "Ix_in4": 340,
+      "Sx_in3": 48.6
+    },
+    {
+      "id": "W14X38",
+      "weight_lb_per_ft": 38,
+      "depth_in": 14.1,
+      "flange_width_in": 6.77,
+      "web_thickness_in": 0.31,
+      "flange_thickness_in": 0.52,
+      "Ix_in4": 385,
+      "Sx_in3": 54.6
+    },
+    {
+      "id": "W14X43",
+      "weight_lb_per_ft": 43,
+      "depth_in": 13.7,
+      "flange_width_in": 8,
+      "web_thickness_in": 0.31,
+      "flange_thickness_in": 0.53,
+      "Ix_in4": 428,
+      "Sx_in3": 62.6
+    },
+    {
+      "id": "W14X48",
+      "weight_lb_per_ft": 48,
+      "depth_in": 13.8,
+      "flange_width_in": 8.03,
+      "web_thickness_in": 0.34,
+      "flange_thickness_in": 0.6,
+      "Ix_in4": 484,
+      "Sx_in3": 70.2
+    },
+    {
+      "id": "W14X53",
+      "weight_lb_per_ft": 53,
+      "depth_in": 13.9,
+      "flange_width_in": 8.06,
+      "web_thickness_in": 0.37,
+      "flange_thickness_in": 0.66,
+      "Ix_in4": 541,
+      "Sx_in3": 77.8
+    },
+    {
+      "id": "W14X61",
+      "weight_lb_per_ft": 61,
+      "depth_in": 13.9,
+      "flange_width_in": 10,
+      "web_thickness_in": 0.38,
+      "flange_thickness_in": 0.65,
+      "Ix_in4": 640,
+      "Sx_in3": 92.1
+    },
+    {
+      "id": "W14X68",
+      "weight_lb_per_ft": 68,
+      "depth_in": 14,
+      "flange_width_in": 10,
+      "web_thickness_in": 0.42,
+      "flange_thickness_in": 0.72,
+      "Ix_in4": 722,
+      "Sx_in3": 103
+    },
+    {
+      "id": "W14X74",
+      "weight_lb_per_ft": 74,
+      "depth_in": 14.2,
+      "flange_width_in": 10.1,
+      "web_thickness_in": 0.45,
+      "flange_thickness_in": 0.79,
+      "Ix_in4": 795,
+      "Sx_in3": 112
+    },
+    {
+      "id": "W14X82",
+      "weight_lb_per_ft": 82,
+      "depth_in": 14.3,
+      "flange_width_in": 10.1,
+      "web_thickness_in": 0.51,
+      "flange_thickness_in": 0.86,
+      "Ix_in4": 881,
+      "Sx_in3": 123
+    },
+    {
+      "id": "W14X90",
+      "weight_lb_per_ft": 90,
+      "depth_in": 14,
+      "flange_width_in": 14.5,
+      "web_thickness_in": 0.44,
+      "flange_thickness_in": 0.71,
+      "Ix_in4": 999,
+      "Sx_in3": 143
+    },
+    {
+      "id": "W14X99",
+      "weight_lb_per_ft": 99,
+      "depth_in": 14.2,
+      "flange_width_in": 14.6,
+      "web_thickness_in": 0.49,
+      "flange_thickness_in": 0.78,
+      "Ix_in4": 1110,
+      "Sx_in3": 157
+    },
+    {
+      "id": "W14X109",
+      "weight_lb_per_ft": 109,
+      "depth_in": 14.3,
+      "flange_width_in": 14.6,
+      "web_thickness_in": 0.53,
+      "flange_thickness_in": 0.86,
+      "Ix_in4": 1240,
+      "Sx_in3": 173
+    },
+    {
+      "id": "W14X120",
+      "weight_lb_per_ft": 120,
+      "depth_in": 14.5,
+      "flange_width_in": 14.7,
+      "web_thickness_in": 0.59,
+      "flange_thickness_in": 0.94,
+      "Ix_in4": 1380,
+      "Sx_in3": 190
+    },
+    {
+      "id": "W14X132",
+      "weight_lb_per_ft": 132,
+      "depth_in": 14.7,
+      "flange_width_in": 14.7,
+      "web_thickness_in": 0.65,
+      "flange_thickness_in": 1.03,
+      "Ix_in4": 1530,
+      "Sx_in3": 209
+    },
+    {
+      "id": "W14X145",
+      "weight_lb_per_ft": 145,
+      "depth_in": 14.8,
+      "flange_width_in": 15.5,
+      "web_thickness_in": 0.68,
+      "flange_thickness_in": 1.09,
+      "Ix_in4": 1710,
+      "Sx_in3": 232
+    },
+    {
+      "id": "W14X159",
+      "weight_lb_per_ft": 159,
+      "depth_in": 15,
+      "flange_width_in": 15.6,
+      "web_thickness_in": 0.75,
+      "flange_thickness_in": 1.19,
+      "Ix_in4": 1900,
+      "Sx_in3": 254
+    },
+    {
+      "id": "W14X176",
+      "weight_lb_per_ft": 176,
+      "depth_in": 15.2,
+      "flange_width_in": 15.7,
+      "web_thickness_in": 0.83,
+      "flange_thickness_in": 1.31,
+      "Ix_in4": 2140,
+      "Sx_in3": 281
+    },
+    {
+      "id": "W14X193",
+      "weight_lb_per_ft": 193,
+      "depth_in": 15.5,
+      "flange_width_in": 15.7,
+      "web_thickness_in": 0.89,
+      "flange_thickness_in": 1.44,
+      "Ix_in4": 2400,
+      "Sx_in3": 310
+    },
+    {
+      "id": "W14X211",
+      "weight_lb_per_ft": 211,
+      "depth_in": 15.7,
+      "flange_width_in": 15.8,
+      "web_thickness_in": 0.98,
+      "flange_thickness_in": 1.56,
+      "Ix_in4": 2660,
+      "Sx_in3": 338
+    },
+    {
+      "id": "W14X233",
+      "weight_lb_per_ft": 233,
+      "depth_in": 16,
+      "flange_width_in": 15.9,
+      "web_thickness_in": 1.07,
+      "flange_thickness_in": 1.72,
+      "Ix_in4": 3010,
+      "Sx_in3": 375
+    },
+    {
+      "id": "W14X257",
+      "weight_lb_per_ft": 257,
+      "depth_in": 16.4,
+      "flange_width_in": 16,
+      "web_thickness_in": 1.18,
+      "flange_thickness_in": 1.89,
+      "Ix_in4": 3400,
+      "Sx_in3": 415
+    },
+    {
+      "id": "W14X283",
+      "weight_lb_per_ft": 283,
+      "depth_in": 16.7,
+      "flange_width_in": 16.1,
+      "web_thickness_in": 1.29,
+      "flange_thickness_in": 2.07,
+      "Ix_in4": 3840,
+      "Sx_in3": 459
+    },
+    {
+      "id": "W14X311",
+      "weight_lb_per_ft": 311,
+      "depth_in": 17.1,
+      "flange_width_in": 16.2,
+      "web_thickness_in": 1.41,
+      "flange_thickness_in": 2.26,
+      "Ix_in4": 4330,
+      "Sx_in3": 506
+    },
+    {
+      "id": "W14X342",
+      "weight_lb_per_ft": 342,
+      "depth_in": 17.5,
+      "flange_width_in": 16.4,
+      "web_thickness_in": 1.54,
+      "flange_thickness_in": 2.47,
+      "Ix_in4": 4900,
+      "Sx_in3": 558
+    },
+    {
+      "id": "W14X370",
+      "weight_lb_per_ft": 370,
+      "depth_in": 17.9,
+      "flange_width_in": 16.5,
+      "web_thickness_in": 1.66,
+      "flange_thickness_in": 2.66,
+      "Ix_in4": 5440,
+      "Sx_in3": 607
+    },
+    {
+      "id": "W14X398",
+      "weight_lb_per_ft": 398,
+      "depth_in": 18.3,
+      "flange_width_in": 16.6,
+      "web_thickness_in": 1.77,
+      "flange_thickness_in": 2.85,
+      "Ix_in4": 6000,
+      "Sx_in3": 656
+    },
+    {
+      "id": "W14X426",
+      "weight_lb_per_ft": 426,
+      "depth_in": 18.7,
+      "flange_width_in": 16.7,
+      "web_thickness_in": 1.88,
+      "flange_thickness_in": 3.04,
+      "Ix_in4": 6600,
+      "Sx_in3": 706
+    },
+    {
+      "id": "W14X455",
+      "weight_lb_per_ft": 455,
+      "depth_in": 19,
+      "flange_width_in": 16.8,
+      "web_thickness_in": 2.02,
+      "flange_thickness_in": 3.21,
+      "Ix_in4": 7190,
+      "Sx_in3": 756
+    },
+    {
+      "id": "W14X500",
+      "weight_lb_per_ft": 500,
+      "depth_in": 19.6,
+      "flange_width_in": 17,
+      "web_thickness_in": 2.19,
+      "flange_thickness_in": 3.5,
+      "Ix_in4": 8210,
+      "Sx_in3": 838
+    },
+    {
+      "id": "W14X550",
+      "weight_lb_per_ft": 550,
+      "depth_in": 20.2,
+      "flange_width_in": 17.2,
+      "web_thickness_in": 2.38,
+      "flange_thickness_in": 3.82,
+      "Ix_in4": 9430,
+      "Sx_in3": 931
+    },
+    {
+      "id": "W14X605",
+      "weight_lb_per_ft": 605,
+      "depth_in": 20.9,
+      "flange_width_in": 17.4,
+      "web_thickness_in": 2.6,
+      "flange_thickness_in": 4.16,
+      "Ix_in4": 10800,
+      "Sx_in3": 1040
+    },
+    {
+      "id": "W14X665",
+      "weight_lb_per_ft": 665,
+      "depth_in": 21.6,
+      "flange_width_in": 17.7,
+      "web_thickness_in": 2.83,
+      "flange_thickness_in": 4.52,
+      "Ix_in4": 12400,
+      "Sx_in3": 1150
+    },
+    {
+      "id": "W14X730",
+      "weight_lb_per_ft": 730,
+      "depth_in": 22.4,
+      "flange_width_in": 17.9,
+      "web_thickness_in": 3.07,
+      "flange_thickness_in": 4.91,
+      "Ix_in4": 14300,
+      "Sx_in3": 1280
+    },
+    {
+      "id": "W14X808",
+      "weight_lb_per_ft": 808,
+      "depth_in": 22.8,
+      "flange_width_in": 18.6,
+      "web_thickness_in": 3.74,
+      "flange_thickness_in": 5.12,
+      "Ix_in4": 15900,
+      "Sx_in3": 1390
+    },
+    {
+      "id": "W14X873",
+      "weight_lb_per_ft": 873,
+      "depth_in": 23.6,
+      "flange_width_in": 18.8,
+      "web_thickness_in": 3.94,
+      "flange_thickness_in": 5.51,
+      "Ix_in4": 18100,
+      "Sx_in3": 1530
+    },
+    {
+      "id": "W16X26",
+      "weight_lb_per_ft": 26,
+      "depth_in": 15.7,
+      "flange_width_in": 5.5,
+      "web_thickness_in": 0.25,
+      "flange_thickness_in": 0.35,
+      "Ix_in4": 301,
+      "Sx_in3": 38.4
+    },
+    {
+      "id": "W16X31",
+      "weight_lb_per_ft": 31,
+      "depth_in": 15.9,
+      "flange_width_in": 5.53,
+      "web_thickness_in": 0.28,
+      "flange_thickness_in": 0.44,
+      "Ix_in4": 375,
+      "Sx_in3": 47.2
+    },
+    {
+      "id": "W16X36",
+      "weight_lb_per_ft": 36,
+      "depth_in": 15.9,
+      "flange_width_in": 6.99,
+      "web_thickness_in": 0.3,
+      "flange_thickness_in": 0.43,
+      "Ix_in4": 448,
+      "Sx_in3": 56.5
+    },
+    {
+      "id": "W16X40",
+      "weight_lb_per_ft": 40,
+      "depth_in": 16,
+      "flange_width_in": 7,
+      "web_thickness_in": 0.31,
+      "flange_thickness_in": 0.51,
+      "Ix_in4": 518,
+      "Sx_in3": 64.7
+    },
+    {
+      "id": "W16X45",
+      "weight_lb_per_ft": 45,
+      "depth_in": 16.1,
+      "flange_width_in": 7.04,
+      "web_thickness_in": 0.35,
+      "flange_thickness_in": 0.57,
+      "Ix_in4": 586,
+      "Sx_in3": 72.7
+    },
+    {
+      "id": "W16X50",
+      "weight_lb_per_ft": 50,
+      "depth_in": 16.3,
+      "flange_width_in": 7.07,
+      "web_thickness_in": 0.38,
+      "flange_thickness_in": 0.63,
+      "Ix_in4": 659,
+      "Sx_in3": 81
+    },
+    {
+      "id": "W16X57",
+      "weight_lb_per_ft": 57,
+      "depth_in": 16.4,
+      "flange_width_in": 7.12,
+      "web_thickness_in": 0.43,
+      "flange_thickness_in": 0.72,
+      "Ix_in4": 758,
+      "Sx_in3": 92.2
+    },
+    {
+      "id": "W16X67",
+      "weight_lb_per_ft": 67,
+      "depth_in": 16.3,
+      "flange_width_in": 10.2,
+      "web_thickness_in": 0.4,
+      "flange_thickness_in": 0.67,
+      "Ix_in4": 954,
+      "Sx_in3": 117
+    },
+    {
+      "id": "W16X77",
+      "weight_lb_per_ft": 77,
+      "depth_in": 16.5,
+      "flange_width_in": 10.3,
+      "web_thickness_in": 0.46,
+      "flange_thickness_in": 0.76,
+      "Ix_in4": 1110,
+      "Sx_in3": 134
+    },
+    {
+      "id": "W16X89",
+      "weight_lb_per_ft": 89,
+      "depth_in": 16.8,
+      "flange_width_in": 10.4,
+      "web_thickness_in": 0.53,
+      "flange_thickness_in": 0.88,
+      "Ix_in4": 1300,
+      "Sx_in3": 155
+    },
+    {
+      "id": "W16X100",
+      "weight_lb_per_ft": 100,
+      "depth_in": 17,
+      "flange_width_in": 10.4,
+      "web_thickness_in": 0.59,
+      "flange_thickness_in": 0.99,
+      "Ix_in4": 1490,
+      "Sx_in3": 175
+    },
+    {
+      "id": "W18X35",
+      "weight_lb_per_ft": 35,
+      "depth_in": 17.7,
+      "flange_width_in": 6,
+      "web_thickness_in": 0.3,
+      "flange_thickness_in": 0.43,
+      "Ix_in4": 510,
+      "Sx_in3": 57.6
+    },
+    {
+      "id": "W18X40",
+      "weight_lb_per_ft": 40,
+      "depth_in": 17.9,
+      "flange_width_in": 6.02,
+      "web_thickness_in": 0.32,
+      "flange_thickness_in": 0.53,
+      "Ix_in4": 612,
+      "Sx_in3": 68.4
+    },
+    {
+      "id": "W18X46",
+      "weight_lb_per_ft": 46,
+      "depth_in": 18.1,
+      "flange_width_in": 6.06,
+      "web_thickness_in": 0.36,
+      "flange_thickness_in": 0.61,
+      "Ix_in4": 712,
+      "Sx_in3": 78.8
+    },
+    {
+      "id": "W18X50",
+      "weight_lb_per_ft": 50,
+      "depth_in": 18,
+      "flange_width_in": 7.5,
+      "web_thickness_in": 0.36,
+      "flange_thickness_in": 0.57,
+      "Ix_in4": 800,
+      "Sx_in3": 88.9
+    },
+    {
+      "id": "W18X55",
+      "weight_lb_per_ft": 55,
+      "depth_in": 18.1,
+      "flange_width_in": 7.53,
+      "web_thickness_in": 0.39,
+      "flange_thickness_in": 0.63,
+      "Ix_in4": 890,
+      "Sx_in3": 98.3
+    },
+    {
+      "id": "W18X60",
+      "weight_lb_per_ft": 60,
+      "depth_in": 18.2,
+      "flange_width_in": 7.56,
+      "web_thickness_in": 0.42,
+      "flange_thickness_in": 0.7,
+      "Ix_in4": 984,
+      "Sx_in3": 108
+    },
+    {
+      "id": "W18X65",
+      "weight_lb_per_ft": 65,
+      "depth_in": 18.4,
+      "flange_width_in": 7.59,
+      "web_thickness_in": 0.45,
+      "flange_thickness_in": 0.75,
+      "Ix_in4": 1070,
+      "Sx_in3": 117
+    },
+    {
+      "id": "W18X71",
+      "weight_lb_per_ft": 71,
+      "depth_in": 18.5,
+      "flange_width_in": 7.64,
+      "web_thickness_in": 0.5,
+      "flange_thickness_in": 0.81,
+      "Ix_in4": 1170,
+      "Sx_in3": 127
+    },
+    {
+      "id": "W18X76",
+      "weight_lb_per_ft": 76,
+      "depth_in": 18.2,
+      "flange_width_in": 11,
+      "web_thickness_in": 0.43,
+      "flange_thickness_in": 0.68,
+      "Ix_in4": 1330,
+      "Sx_in3": 146
+    },
+    {
+      "id": "W18X86",
+      "weight_lb_per_ft": 86,
+      "depth_in": 18.4,
+      "flange_width_in": 11.1,
+      "web_thickness_in": 0.48,
+      "flange_thickness_in": 0.77,
+      "Ix_in4": 1530,
+      "Sx_in3": 166
+    },
+    {
+      "id": "W18X97",
+      "weight_lb_per_ft": 97,
+      "depth_in": 18.6,
+      "flange_width_in": 11.1,
+      "web_thickness_in": 0.54,
+      "flange_thickness_in": 0.87,
+      "Ix_in4": 1750,
+      "Sx_in3": 188
+    },
+    {
+      "id": "W18X106",
+      "weight_lb_per_ft": 106,
+      "depth_in": 18.7,
+      "flange_width_in": 11.2,
+      "web_thickness_in": 0.59,
+      "flange_thickness_in": 0.94,
+      "Ix_in4": 1910,
+      "Sx_in3": 204
+    },
+    {
+      "id": "W18X119",
+      "weight_lb_per_ft": 119,
+      "depth_in": 19,
+      "flange_width_in": 11.3,
+      "web_thickness_in": 0.66,
+      "flange_thickness_in": 1.06,
+      "Ix_in4": 2190,
+      "Sx_in3": 231
+    },
+    {
+      "id": "W18X130",
+      "weight_lb_per_ft": 130,
+      "depth_in": 19.3,
+      "flange_width_in": 11.2,
+      "web_thickness_in": 0.67,
+      "flange_thickness_in": 1.2,
+      "Ix_in4": 2460,
+      "Sx_in3": 256
+    },
+    {
+      "id": "W18X143",
+      "weight_lb_per_ft": 143,
+      "depth_in": 19.5,
+      "flange_width_in": 11.2,
+      "web_thickness_in": 0.73,
+      "flange_thickness_in": 1.32,
+      "Ix_in4": 2750,
+      "Sx_in3": 282
+    },
+    {
+      "id": "W18X158",
+      "weight_lb_per_ft": 158,
+      "depth_in": 19.7,
+      "flange_width_in": 11.3,
+      "web_thickness_in": 0.81,
+      "flange_thickness_in": 1.44,
+      "Ix_in4": 3060,
+      "Sx_in3": 310
+    },
+    {
+      "id": "W18X175",
+      "weight_lb_per_ft": 175,
+      "depth_in": 20,
+      "flange_width_in": 11.4,
+      "web_thickness_in": 0.89,
+      "flange_thickness_in": 1.59,
+      "Ix_in4": 3450,
+      "Sx_in3": 344
+    },
+    {
+      "id": "W18X192",
+      "weight_lb_per_ft": 192,
+      "depth_in": 20.4,
+      "flange_width_in": 11.5,
+      "web_thickness_in": 0.96,
+      "flange_thickness_in": 1.75,
+      "Ix_in4": 3870,
+      "Sx_in3": 380
+    },
+    {
+      "id": "W18X211",
+      "weight_lb_per_ft": 211,
+      "depth_in": 20.7,
+      "flange_width_in": 11.6,
+      "web_thickness_in": 1.06,
+      "flange_thickness_in": 1.91,
+      "Ix_in4": 4330,
+      "Sx_in3": 419
+    },
+    {
+      "id": "W18X234",
+      "weight_lb_per_ft": 234,
+      "depth_in": 21.1,
+      "flange_width_in": 11.7,
+      "web_thickness_in": 1.16,
+      "flange_thickness_in": 2.11,
+      "Ix_in4": 4900,
+      "Sx_in3": 466
+    },
+    {
+      "id": "W18X258",
+      "weight_lb_per_ft": 258,
+      "depth_in": 21.5,
+      "flange_width_in": 11.8,
+      "web_thickness_in": 1.28,
+      "flange_thickness_in": 2.3,
+      "Ix_in4": 5510,
+      "Sx_in3": 514
+    },
+    {
+      "id": "W18X283",
+      "weight_lb_per_ft": 283,
+      "depth_in": 21.9,
+      "flange_width_in": 11.9,
+      "web_thickness_in": 1.4,
+      "flange_thickness_in": 2.5,
+      "Ix_in4": 6170,
+      "Sx_in3": 565
+    },
+    {
+      "id": "W18X311",
+      "weight_lb_per_ft": 311,
+      "depth_in": 22.3,
+      "flange_width_in": 12,
+      "web_thickness_in": 1.52,
+      "flange_thickness_in": 2.74,
+      "Ix_in4": 6970,
+      "Sx_in3": 624
+    },
+    {
+      "id": "W21X44",
+      "weight_lb_per_ft": 44,
+      "depth_in": 20.7,
+      "flange_width_in": 6.5,
+      "web_thickness_in": 0.35,
+      "flange_thickness_in": 0.45,
+      "Ix_in4": 843,
+      "Sx_in3": 81.6
+    },
+    {
+      "id": "W21X48",
+      "weight_lb_per_ft": 48,
+      "depth_in": 20.6,
+      "flange_width_in": 8.14,
+      "web_thickness_in": 0.35,
+      "flange_thickness_in": 0.43,
+      "Ix_in4": 959,
+      "Sx_in3": 93
+    },
+    {
+      "id": "W21X50",
+      "weight_lb_per_ft": 50,
+      "depth_in": 20.8,
+      "flange_width_in": 6.53,
+      "web_thickness_in": 0.38,
+      "flange_thickness_in": 0.54,
+      "Ix_in4": 984,
+      "Sx_in3": 94.5
+    },
+    {
+      "id": "W21X55",
+      "weight_lb_per_ft": 55,
+      "depth_in": 20.8,
+      "flange_width_in": 8.22,
+      "web_thickness_in": 0.38,
+      "flange_thickness_in": 0.52,
+      "Ix_in4": 1140,
+      "Sx_in3": 110
+    },
+    {
+      "id": "W21X57",
+      "weight_lb_per_ft": 57,
+      "depth_in": 21.1,
+      "flange_width_in": 6.56,
+      "web_thickness_in": 0.41,
+      "flange_thickness_in": 0.65,
+      "Ix_in4": 1170,
+      "Sx_in3": 111
+    },
+    {
+      "id": "W21X62",
+      "weight_lb_per_ft": 62,
+      "depth_in": 21,
+      "flange_width_in": 8.24,
+      "web_thickness_in": 0.4,
+      "flange_thickness_in": 0.62,
+      "Ix_in4": 1330,
+      "Sx_in3": 127
+    },
+    {
+      "id": "W21X68",
+      "weight_lb_per_ft": 68,
+      "depth_in": 21.1,
+      "flange_width_in": 8.27,
+      "web_thickness_in": 0.43,
+      "flange_thickness_in": 0.69,
+      "Ix_in4": 1480,
+      "Sx_in3": 140
+    },
+    {
+      "id": "W21X73",
+      "weight_lb_per_ft": 73,
+      "depth_in": 21.2,
+      "flange_width_in": 8.3,
+      "web_thickness_in": 0.46,
+      "flange_thickness_in": 0.74,
+      "Ix_in4": 1600,
+      "Sx_in3": 151
+    },
+    {
+      "id": "W21X83",
+      "weight_lb_per_ft": 83,
+      "depth_in": 21.4,
+      "flange_width_in": 8.36,
+      "web_thickness_in": 0.52,
+      "flange_thickness_in": 0.84,
+      "Ix_in4": 1830,
+      "Sx_in3": 171
+    },
+    {
+      "id": "W21X93",
+      "weight_lb_per_ft": 93,
+      "depth_in": 21.6,
+      "flange_width_in": 8.42,
+      "web_thickness_in": 0.58,
+      "flange_thickness_in": 0.93,
+      "Ix_in4": 2070,
+      "Sx_in3": 192
+    },
+    {
+      "id": "W21X101",
+      "weight_lb_per_ft": 101,
+      "depth_in": 21.4,
+      "flange_width_in": 12.3,
+      "web_thickness_in": 0.5,
+      "flange_thickness_in": 0.8,
+      "Ix_in4": 2420,
+      "Sx_in3": 227
+    },
+    {
+      "id": "W21X111",
+      "weight_lb_per_ft": 111,
+      "depth_in": 21.5,
+      "flange_width_in": 12.3,
+      "web_thickness_in": 0.55,
+      "flange_thickness_in": 0.88,
+      "Ix_in4": 2670,
+      "Sx_in3": 249
+    },
+    {
+      "id": "W21X122",
+      "weight_lb_per_ft": 122,
+      "depth_in": 21.7,
+      "flange_width_in": 12.4,
+      "web_thickness_in": 0.6,
+      "flange_thickness_in": 0.96,
+      "Ix_in4": 2960,
+      "Sx_in3": 273
+    },
+    {
+      "id": "W21X132",
+      "weight_lb_per_ft": 132,
+      "depth_in": 21.8,
+      "flange_width_in": 12.4,
+      "web_thickness_in": 0.65,
+      "flange_thickness_in": 1.04,
+      "Ix_in4": 3220,
+      "Sx_in3": 295
+    },
+    {
+      "id": "W21X147",
+      "weight_lb_per_ft": 147,
+      "depth_in": 22.1,
+      "flange_width_in": 12.5,
+      "web_thickness_in": 0.72,
+      "flange_thickness_in": 1.15,
+      "Ix_in4": 3630,
+      "Sx_in3": 329
+    },
+    {
+      "id": "W21X166",
+      "weight_lb_per_ft": 166,
+      "depth_in": 22.5,
+      "flange_width_in": 12.4,
+      "web_thickness_in": 0.75,
+      "flange_thickness_in": 1.36,
+      "Ix_in4": 4280,
+      "Sx_in3": 380
+    },
+    {
+      "id": "W21X182",
+      "weight_lb_per_ft": 182,
+      "depth_in": 22.7,
+      "flange_width_in": 12.5,
+      "web_thickness_in": 0.83,
+      "flange_thickness_in": 1.48,
+      "Ix_in4": 4730,
+      "Sx_in3": 417
+    },
+    {
+      "id": "W21X201",
+      "weight_lb_per_ft": 201,
+      "depth_in": 23,
+      "flange_width_in": 12.6,
+      "web_thickness_in": 0.91,
+      "flange_thickness_in": 1.63,
+      "Ix_in4": 5310,
+      "Sx_in3": 461
+    },
+    {
+      "id": "W21X223",
+      "weight_lb_per_ft": 223,
+      "depth_in": 23.4,
+      "flange_width_in": 12.7,
+      "web_thickness_in": 1,
+      "flange_thickness_in": 1.79,
+      "Ix_in4": 6080,
+      "Sx_in3": 520
+    },
+    {
+      "id": "W21X248",
+      "weight_lb_per_ft": 248,
+      "depth_in": 23.7,
+      "flange_width_in": 12.8,
+      "web_thickness_in": 1.1,
+      "flange_thickness_in": 1.99,
+      "Ix_in4": 6830,
+      "Sx_in3": 576
+    },
+    {
+      "id": "W21X275",
+      "weight_lb_per_ft": 275,
+      "depth_in": 24.1,
+      "flange_width_in": 12.9,
+      "web_thickness_in": 1.22,
+      "flange_thickness_in": 2.19,
+      "Ix_in4": 7690,
+      "Sx_in3": 638
+    },
+    {
+      "id": "W24X55",
+      "weight_lb_per_ft": 55,
+      "depth_in": 23.6,
+      "flange_width_in": 7.01,
+      "web_thickness_in": 0.4,
+      "flange_thickness_in": 0.51,
+      "Ix_in4": 1350,
+      "Sx_in3": 114
+    },
+    {
+      "id": "W24X62",
+      "weight_lb_per_ft": 62,
+      "depth_in": 23.7,
+      "flange_width_in": 7.04,
+      "web_thickness_in": 0.43,
+      "flange_thickness_in": 0.59,
+      "Ix_in4": 1550,
+      "Sx_in3": 131
+    },
+    {
+      "id": "W24X68",
+      "weight_lb_per_ft": 68,
+      "depth_in": 23.7,
+      "flange_width_in": 8.97,
+      "web_thickness_in": 0.42,
+      "flange_thickness_in": 0.59,
+      "Ix_in4": 1830,
+      "Sx_in3": 154
+    },
+    {
+      "id": "W24X76",
+      "weight_lb_per_ft": 76,
+      "depth_in": 23.9,
+      "flange_width_in": 8.99,
+      "web_thickness_in": 0.44,
+      "flange_thickness_in": 0.68,
+      "Ix_in4": 2100,
+      "Sx_in3": 176
+    },
+    {
+      "id": "W24X84",
+      "weight_lb_per_ft": 84,
+      "depth_in": 24.1,
+      "flange_width_in": 9.02,
+      "web_thickness_in": 0.47,
+      "flange_thickness_in": 0.77,
+      "Ix_in4": 2370,
+      "Sx_in3": 196
+    },
+    {
+      "id": "W24X94",
+      "weight_lb_per_ft": 94,
+      "depth_in": 24.3,
+      "flange_width_in": 9.07,
+      "web_thickness_in": 0.52,
+      "flange_thickness_in": 0.88,
+      "Ix_in4": 2700,
+      "Sx_in3": 222
+    },
+    {
+      "id": "W24X103",
+      "weight_lb_per_ft": 103,
+      "depth_in": 24.5,
+      "flange_width_in": 9,
+      "web_thickness_in": 0.55,
+      "flange_thickness_in": 0.98,
+      "Ix_in4": 3000,
+      "Sx_in3": 245
+    },
+    {
+      "id": "W24X104",
+      "weight_lb_per_ft": 104,
+      "depth_in": 24.1,
+      "flange_width_in": 12.8,
+      "web_thickness_in": 0.5,
+      "flange_thickness_in": 0.75,
+      "Ix_in4": 3100,
+      "Sx_in3": 258
+    },
+    {
+      "id": "W24X117",
+      "weight_lb_per_ft": 117,
+      "depth_in": 24.3,
+      "flange_width_in": 12.8,
+      "web_thickness_in": 0.55,
+      "flange_thickness_in": 0.85,
+      "Ix_in4": 3540,
+      "Sx_in3": 291
+    },
+    {
+      "id": "W24X131",
+      "weight_lb_per_ft": 131,
+      "depth_in": 24.5,
+      "flange_width_in": 12.9,
+      "web_thickness_in": 0.61,
+      "flange_thickness_in": 0.96,
+      "Ix_in4": 4020,
+      "Sx_in3": 329
+    },
+    {
+      "id": "W24X146",
+      "weight_lb_per_ft": 146,
+      "depth_in": 24.7,
+      "flange_width_in": 12.9,
+      "web_thickness_in": 0.65,
+      "flange_thickness_in": 1.09,
+      "Ix_in4": 4580,
+      "Sx_in3": 371
+    },
+    {
+      "id": "W24X162",
+      "weight_lb_per_ft": 162,
+      "depth_in": 25,
+      "flange_width_in": 13,
+      "web_thickness_in": 0.71,
+      "flange_thickness_in": 1.22,
+      "Ix_in4": 5170,
+      "Sx_in3": 414
+    },
+    {
+      "id": "W24X176",
+      "weight_lb_per_ft": 176,
+      "depth_in": 25.2,
+      "flange_width_in": 12.9,
+      "web_thickness_in": 0.75,
+      "flange_thickness_in": 1.34,
+      "Ix_in4": 5680,
+      "Sx_in3": 450
+    },
+    {
+      "id": "W24X192",
+      "weight_lb_per_ft": 192,
+      "depth_in": 25.5,
+      "flange_width_in": 13,
+      "web_thickness_in": 0.81,
+      "flange_thickness_in": 1.46,
+      "Ix_in4": 6260,
+      "Sx_in3": 491
+    },
+    {
+      "id": "W24X207",
+      "weight_lb_per_ft": 207,
+      "depth_in": 25.7,
+      "flange_width_in": 13,
+      "web_thickness_in": 0.87,
+      "flange_thickness_in": 1.57,
+      "Ix_in4": 6820,
+      "Sx_in3": 531
+    },
+    {
+      "id": "W24X229",
+      "weight_lb_per_ft": 229,
+      "depth_in": 26,
+      "flange_width_in": 13.1,
+      "web_thickness_in": 0.96,
+      "flange_thickness_in": 1.73,
+      "Ix_in4": 7650,
+      "Sx_in3": 588
+    },
+    {
+      "id": "W24X250",
+      "weight_lb_per_ft": 250,
+      "depth_in": 26.3,
+      "flange_width_in": 13.2,
+      "web_thickness_in": 1.04,
+      "flange_thickness_in": 1.89,
+      "Ix_in4": 8490,
+      "Sx_in3": 644
+    },
+    {
+      "id": "W24X279",
+      "weight_lb_per_ft": 279,
+      "depth_in": 26.7,
+      "flange_width_in": 13.3,
+      "web_thickness_in": 1.16,
+      "flange_thickness_in": 2.09,
+      "Ix_in4": 9600,
+      "Sx_in3": 718
+    },
+    {
+      "id": "W24X306",
+      "weight_lb_per_ft": 306,
+      "depth_in": 27.1,
+      "flange_width_in": 13.4,
+      "web_thickness_in": 1.26,
+      "flange_thickness_in": 2.28,
+      "Ix_in4": 10700,
+      "Sx_in3": 789
+    },
+    {
+      "id": "W24X335",
+      "weight_lb_per_ft": 335,
+      "depth_in": 27.5,
+      "flange_width_in": 13.5,
+      "web_thickness_in": 1.38,
+      "flange_thickness_in": 2.48,
+      "Ix_in4": 11900,
+      "Sx_in3": 864
+    },
+    {
+      "id": "W24X370",
+      "weight_lb_per_ft": 370,
+      "depth_in": 28,
+      "flange_width_in": 13.7,
+      "web_thickness_in": 1.52,
+      "flange_thickness_in": 2.72,
+      "Ix_in4": 13400,
+      "Sx_in3": 957
+    },
+    {
+      "id": "W27X84",
+      "weight_lb_per_ft": 84,
+      "depth_in": 26.7,
+      "flange_width_in": 10,
+      "web_thickness_in": 0.46,
+      "flange_thickness_in": 0.64,
+      "Ix_in4": 2850,
+      "Sx_in3": 213
+    },
+    {
+      "id": "W27X94",
+      "weight_lb_per_ft": 94,
+      "depth_in": 26.9,
+      "flange_width_in": 10,
+      "web_thickness_in": 0.49,
+      "flange_thickness_in": 0.75,
+      "Ix_in4": 3270,
+      "Sx_in3": 243
+    },
+    {
+      "id": "W27X102",
+      "weight_lb_per_ft": 102,
+      "depth_in": 27.1,
+      "flange_width_in": 10,
+      "web_thickness_in": 0.52,
+      "flange_thickness_in": 0.83,
+      "Ix_in4": 3620,
+      "Sx_in3": 267
+    },
+    {
+      "id": "W27X114",
+      "weight_lb_per_ft": 114,
+      "depth_in": 27.3,
+      "flange_width_in": 10.1,
+      "web_thickness_in": 0.57,
+      "flange_thickness_in": 0.93,
+      "Ix_in4": 4080,
+      "Sx_in3": 299
+    },
+    {
+      "id": "W27X129",
+      "weight_lb_per_ft": 129,
+      "depth_in": 27.6,
+      "flange_width_in": 10,
+      "web_thickness_in": 0.61,
+      "flange_thickness_in": 1.1,
+      "Ix_in4": 4760,
+      "Sx_in3": 345
+    },
+    {
+      "id": "W27X146",
+      "weight_lb_per_ft": 146,
+      "depth_in": 27.4,
+      "flange_width_in": 14,
+      "web_thickness_in": 0.61,
+      "flange_thickness_in": 0.98,
+      "Ix_in4": 5660,
+      "Sx_in3": 414
+    },
+    {
+      "id": "W27X161",
+      "weight_lb_per_ft": 161,
+      "depth_in": 27.6,
+      "flange_width_in": 14,
+      "web_thickness_in": 0.66,
+      "flange_thickness_in": 1.08,
+      "Ix_in4": 6310,
+      "Sx_in3": 458
+    },
+    {
+      "id": "W27X178",
+      "weight_lb_per_ft": 178,
+      "depth_in": 27.8,
+      "flange_width_in": 14.1,
+      "web_thickness_in": 0.73,
+      "flange_thickness_in": 1.19,
+      "Ix_in4": 7020,
+      "Sx_in3": 505
+    },
+    {
+      "id": "W27X194",
+      "weight_lb_per_ft": 194,
+      "depth_in": 28.1,
+      "flange_width_in": 14,
+      "web_thickness_in": 0.75,
+      "flange_thickness_in": 1.34,
+      "Ix_in4": 7860,
+      "Sx_in3": 559
+    },
+    {
+      "id": "W27X217",
+      "weight_lb_per_ft": 217,
+      "depth_in": 28.4,
+      "flange_width_in": 14.1,
+      "web_thickness_in": 0.83,
+      "flange_thickness_in": 1.5,
+      "Ix_in4": 8910,
+      "Sx_in3": 627
+    },
+    {
+      "id": "W27X235",
+      "weight_lb_per_ft": 235,
+      "depth_in": 28.7,
+      "flange_width_in": 14.2,
+      "web_thickness_in": 0.91,
+      "flange_thickness_in": 1.61,
+      "Ix_in4": 9700,
+      "Sx_in3": 677
+    },
+    {
+      "id": "W27X258",
+      "weight_lb_per_ft": 258,
+      "depth_in": 29,
+      "flange_width_in": 14.3,
+      "web_thickness_in": 0.98,
+      "flange_thickness_in": 1.77,
+      "Ix_in4": 10800,
+      "Sx_in3": 745
+    },
+    {
+      "id": "W27X281",
+      "weight_lb_per_ft": 281,
+      "depth_in": 29.3,
+      "flange_width_in": 14.4,
+      "web_thickness_in": 1.06,
+      "flange_thickness_in": 1.93,
+      "Ix_in4": 11900,
+      "Sx_in3": 814
+    },
+    {
+      "id": "W27X307",
+      "weight_lb_per_ft": 307,
+      "depth_in": 29.6,
+      "flange_width_in": 14.4,
+      "web_thickness_in": 1.16,
+      "flange_thickness_in": 2.09,
+      "Ix_in4": 13100,
+      "Sx_in3": 887
+    },
+    {
+      "id": "W27X336",
+      "weight_lb_per_ft": 336,
+      "depth_in": 30,
+      "flange_width_in": 14.6,
+      "web_thickness_in": 1.26,
+      "flange_thickness_in": 2.28,
+      "Ix_in4": 14600,
+      "Sx_in3": 972
+    },
+    {
+      "id": "W27X368",
+      "weight_lb_per_ft": 368,
+      "depth_in": 30.4,
+      "flange_width_in": 14.7,
+      "web_thickness_in": 1.38,
+      "flange_thickness_in": 2.48,
+      "Ix_in4": 16200,
+      "Sx_in3": 1060
+    },
+    {
+      "id": "W27X539",
+      "weight_lb_per_ft": 539,
+      "depth_in": 32.5,
+      "flange_width_in": 15.3,
+      "web_thickness_in": 1.97,
+      "flange_thickness_in": 3.54,
+      "Ix_in4": 25600,
+      "Sx_in3": 1570
+    },
+    {
+      "id": "W30X90",
+      "weight_lb_per_ft": 90,
+      "depth_in": 29.5,
+      "flange_width_in": 10.4,
+      "web_thickness_in": 0.47,
+      "flange_thickness_in": 0.61,
+      "Ix_in4": 3610,
+      "Sx_in3": 245
+    },
+    {
+      "id": "W30X99",
+      "weight_lb_per_ft": 99,
+      "depth_in": 29.7,
+      "flange_width_in": 10.5,
+      "web_thickness_in": 0.52,
+      "flange_thickness_in": 0.67,
+      "Ix_in4": 3990,
+      "Sx_in3": 269
+    },
+    {
+      "id": "W30X108",
+      "weight_lb_per_ft": 108,
+      "depth_in": 29.8,
+      "flange_width_in": 10.5,
+      "web_thickness_in": 0.55,
+      "flange_thickness_in": 0.76,
+      "Ix_in4": 4470,
+      "Sx_in3": 299
+    },
+    {
+      "id": "W30X116",
+      "weight_lb_per_ft": 116,
+      "depth_in": 30,
+      "flange_width_in": 10.5,
+      "web_thickness_in": 0.57,
+      "flange_thickness_in": 0.85,
+      "Ix_in4": 4930,
+      "Sx_in3": 329
+    },
+    {
+      "id": "W30X124",
+      "weight_lb_per_ft": 124,
+      "depth_in": 30.2,
+      "flange_width_in": 10.5,
+      "web_thickness_in": 0.59,
+      "flange_thickness_in": 0.93,
+      "Ix_in4": 5360,
+      "Sx_in3": 355
+    },
+    {
+      "id": "W30X132",
+      "weight_lb_per_ft": 132,
+      "depth_in": 30.3,
+      "flange_width_in": 10.5,
+      "web_thickness_in": 0.62,
+      "flange_thickness_in": 1,
+      "Ix_in4": 5770,
+      "Sx_in3": 380
+    },
+    {
+      "id": "W30X148",
+      "weight_lb_per_ft": 148,
+      "depth_in": 30.7,
+      "flange_width_in": 10.5,
+      "web_thickness_in": 0.65,
+      "flange_thickness_in": 1.18,
+      "Ix_in4": 6680,
+      "Sx_in3": 436
+    },
+    {
+      "id": "W30X173",
+      "weight_lb_per_ft": 173,
+      "depth_in": 30.4,
+      "flange_width_in": 15,
+      "web_thickness_in": 0.66,
+      "flange_thickness_in": 1.07,
+      "Ix_in4": 8230,
+      "Sx_in3": 541
+    },
+    {
+      "id": "W30X191",
+      "weight_lb_per_ft": 191,
+      "depth_in": 30.7,
+      "flange_width_in": 15,
+      "web_thickness_in": 0.71,
+      "flange_thickness_in": 1.19,
+      "Ix_in4": 9200,
+      "Sx_in3": 600
+    },
+    {
+      "id": "W30X211",
+      "weight_lb_per_ft": 211,
+      "depth_in": 30.9,
+      "flange_width_in": 15.1,
+      "web_thickness_in": 0.78,
+      "flange_thickness_in": 1.32,
+      "Ix_in4": 10300,
+      "Sx_in3": 665
+    },
+    {
+      "id": "W30X235",
+      "weight_lb_per_ft": 235,
+      "depth_in": 31.3,
+      "flange_width_in": 15.1,
+      "web_thickness_in": 0.83,
+      "flange_thickness_in": 1.5,
+      "Ix_in4": 11700,
+      "Sx_in3": 748
+    },
+    {
+      "id": "W30X261",
+      "weight_lb_per_ft": 261,
+      "depth_in": 31.6,
+      "flange_width_in": 15.2,
+      "web_thickness_in": 0.93,
+      "flange_thickness_in": 1.65,
+      "Ix_in4": 13100,
+      "Sx_in3": 829
+    },
+    {
+      "id": "W30X292",
+      "weight_lb_per_ft": 292,
+      "depth_in": 32,
+      "flange_width_in": 15.3,
+      "web_thickness_in": 1.02,
+      "flange_thickness_in": 1.85,
+      "Ix_in4": 14900,
+      "Sx_in3": 930
+    },
+    {
+      "id": "W30X326",
+      "weight_lb_per_ft": 326,
+      "depth_in": 32.4,
+      "flange_width_in": 15.4,
+      "web_thickness_in": 1.14,
+      "flange_thickness_in": 2.05,
+      "Ix_in4": 16800,
+      "Sx_in3": 1040
+    },
+    {
+      "id": "W30X357",
+      "weight_lb_per_ft": 357,
+      "depth_in": 32.8,
+      "flange_width_in": 15.5,
+      "web_thickness_in": 1.24,
+      "flange_thickness_in": 2.24,
+      "Ix_in4": 18700,
+      "Sx_in3": 1140
+    },
+    {
+      "id": "W30X391",
+      "weight_lb_per_ft": 391,
+      "depth_in": 33.2,
+      "flange_width_in": 15.6,
+      "web_thickness_in": 1.36,
+      "flange_thickness_in": 2.44,
+      "Ix_in4": 20700,
+      "Sx_in3": 1250
+    },
+    {
+      "id": "W33X118",
+      "weight_lb_per_ft": 118,
+      "depth_in": 32.9,
+      "flange_width_in": 11.5,
+      "web_thickness_in": 0.55,
+      "flange_thickness_in": 0.74,
+      "Ix_in4": 5900,
+      "Sx_in3": 359
+    },
+    {
+      "id": "W33X130",
+      "weight_lb_per_ft": 130,
+      "depth_in": 33.1,
+      "flange_width_in": 11.5,
+      "web_thickness_in": 0.58,
+      "flange_thickness_in": 0.86,
+      "Ix_in4": 6710,
+      "Sx_in3": 406
+    },
+    {
+      "id": "W33X141",
+      "weight_lb_per_ft": 141,
+      "depth_in": 33.3,
+      "flange_width_in": 11.5,
+      "web_thickness_in": 0.61,
+      "flange_thickness_in": 0.96,
+      "Ix_in4": 7450,
+      "Sx_in3": 448
+    },
+    {
+      "id": "W33X152",
+      "weight_lb_per_ft": 152,
+      "depth_in": 33.5,
+      "flange_width_in": 11.6,
+      "web_thickness_in": 0.64,
+      "flange_thickness_in": 1.06,
+      "Ix_in4": 8160,
+      "Sx_in3": 487
+    },
+    {
+      "id": "W33X169",
+      "weight_lb_per_ft": 169,
+      "depth_in": 33.8,
+      "flange_width_in": 11.5,
+      "web_thickness_in": 0.67,
+      "flange_thickness_in": 1.22,
+      "Ix_in4": 9290,
+      "Sx_in3": 549
+    },
+    {
+      "id": "W33X201",
+      "weight_lb_per_ft": 201,
+      "depth_in": 33.7,
+      "flange_width_in": 15.7,
+      "web_thickness_in": 0.72,
+      "flange_thickness_in": 1.15,
+      "Ix_in4": 11600,
+      "Sx_in3": 686
+    },
+    {
+      "id": "W33X221",
+      "weight_lb_per_ft": 221,
+      "depth_in": 33.9,
+      "flange_width_in": 15.8,
+      "web_thickness_in": 0.78,
+      "flange_thickness_in": 1.28,
+      "Ix_in4": 12900,
+      "Sx_in3": 759
+    },
+    {
+      "id": "W33X241",
+      "weight_lb_per_ft": 241,
+      "depth_in": 34.2,
+      "flange_width_in": 15.9,
+      "web_thickness_in": 0.83,
+      "flange_thickness_in": 1.4,
+      "Ix_in4": 14200,
+      "Sx_in3": 831
+    },
+    {
+      "id": "W33X263",
+      "weight_lb_per_ft": 263,
+      "depth_in": 34.5,
+      "flange_width_in": 15.8,
+      "web_thickness_in": 0.87,
+      "flange_thickness_in": 1.57,
+      "Ix_in4": 15900,
+      "Sx_in3": 919
+    },
+    {
+      "id": "W33X291",
+      "weight_lb_per_ft": 291,
+      "depth_in": 34.8,
+      "flange_width_in": 15.9,
+      "web_thickness_in": 0.96,
+      "flange_thickness_in": 1.73,
+      "Ix_in4": 17700,
+      "Sx_in3": 1020
+    },
+    {
+      "id": "W33X318",
+      "weight_lb_per_ft": 318,
+      "depth_in": 35.2,
+      "flange_width_in": 16,
+      "web_thickness_in": 1.04,
+      "flange_thickness_in": 1.89,
+      "Ix_in4": 19500,
+      "Sx_in3": 1110
+    },
+    {
+      "id": "W33X354",
+      "weight_lb_per_ft": 354,
+      "depth_in": 35.6,
+      "flange_width_in": 16.1,
+      "web_thickness_in": 1.16,
+      "flange_thickness_in": 2.09,
+      "Ix_in4": 22000,
+      "Sx_in3": 1240
+    },
+    {
+      "id": "W33X387",
+      "weight_lb_per_ft": 387,
+      "depth_in": 36,
+      "flange_width_in": 16.2,
+      "web_thickness_in": 1.26,
+      "flange_thickness_in": 2.28,
+      "Ix_in4": 24300,
+      "Sx_in3": 1350
+    },
+    {
+      "id": "W36X135",
+      "weight_lb_per_ft": 135,
+      "depth_in": 35.6,
+      "flange_width_in": 12,
+      "web_thickness_in": 0.6,
+      "flange_thickness_in": 0.79,
+      "Ix_in4": 7800,
+      "Sx_in3": 439
+    },
+    {
+      "id": "W36X150",
+      "weight_lb_per_ft": 150,
+      "depth_in": 35.9,
+      "flange_width_in": 12,
+      "web_thickness_in": 0.63,
+      "flange_thickness_in": 0.94,
+      "Ix_in4": 9040,
+      "Sx_in3": 504
+    },
+    {
+      "id": "W36X160",
+      "weight_lb_per_ft": 160,
+      "depth_in": 36,
+      "flange_width_in": 12,
+      "web_thickness_in": 0.65,
+      "flange_thickness_in": 1.02,
+      "Ix_in4": 9760,
+      "Sx_in3": 542
+    },
+    {
+      "id": "W36X170",
+      "weight_lb_per_ft": 170,
+      "depth_in": 36.2,
+      "flange_width_in": 12,
+      "web_thickness_in": 0.68,
+      "flange_thickness_in": 1.1,
+      "Ix_in4": 10500,
+      "Sx_in3": 581
+    },
+    {
+      "id": "W36X182",
+      "weight_lb_per_ft": 182,
+      "depth_in": 36.3,
+      "flange_width_in": 12.1,
+      "web_thickness_in": 0.73,
+      "flange_thickness_in": 1.18,
+      "Ix_in4": 11300,
+      "Sx_in3": 623
+    },
+    {
+      "id": "W36X194",
+      "weight_lb_per_ft": 194,
+      "depth_in": 36.5,
+      "flange_width_in": 12.1,
+      "web_thickness_in": 0.77,
+      "flange_thickness_in": 1.26,
+      "Ix_in4": 12100,
+      "Sx_in3": 664
+    },
+    {
+      "id": "W36X210",
+      "weight_lb_per_ft": 210,
+      "depth_in": 36.7,
+      "flange_width_in": 12.2,
+      "web_thickness_in": 0.83,
+      "flange_thickness_in": 1.36,
+      "Ix_in4": 13200,
+      "Sx_in3": 719
+    },
+    {
+      "id": "W36X231",
+      "weight_lb_per_ft": 231,
+      "depth_in": 36.5,
+      "flange_width_in": 16.5,
+      "web_thickness_in": 0.76,
+      "flange_thickness_in": 1.26,
+      "Ix_in4": 15600,
+      "Sx_in3": 854
+    },
+    {
+      "id": "W36X232",
+      "weight_lb_per_ft": 232,
+      "depth_in": 37.1,
+      "flange_width_in": 12.1,
+      "web_thickness_in": 0.87,
+      "flange_thickness_in": 1.57,
+      "Ix_in4": 15000,
+      "Sx_in3": 809
+    },
+    {
+      "id": "W36X247",
+      "weight_lb_per_ft": 247,
+      "depth_in": 36.7,
+      "flange_width_in": 16.5,
+      "web_thickness_in": 0.8,
+      "flange_thickness_in": 1.35,
+      "Ix_in4": 16700,
+      "Sx_in3": 913
+    },
+    {
+      "id": "W36X256",
+      "weight_lb_per_ft": 256,
+      "depth_in": 37.4,
+      "flange_width_in": 12.2,
+      "web_thickness_in": 0.96,
+      "flange_thickness_in": 1.73,
+      "Ix_in4": 16800,
+      "Sx_in3": 895
+    },
+    {
+      "id": "W36X262",
+      "weight_lb_per_ft": 262,
+      "depth_in": 36.9,
+      "flange_width_in": 16.6,
+      "web_thickness_in": 0.84,
+      "flange_thickness_in": 1.44,
+      "Ix_in4": 17900,
+      "Sx_in3": 972
+    },
+    {
+      "id": "W36X282",
+      "weight_lb_per_ft": 282,
+      "depth_in": 37.1,
+      "flange_width_in": 16.6,
+      "web_thickness_in": 0.89,
+      "flange_thickness_in": 1.57,
+      "Ix_in4": 19600,
+      "Sx_in3": 1050
+    },
+    {
+      "id": "W36X286",
+      "weight_lb_per_ft": 286,
+      "depth_in": 37.8,
+      "flange_width_in": 12.3,
+      "web_thickness_in": 1.06,
+      "flange_thickness_in": 1.93,
+      "Ix_in4": 18900,
+      "Sx_in3": 1000
+    },
+    {
+      "id": "W36X302",
+      "weight_lb_per_ft": 302,
+      "depth_in": 37.3,
+      "flange_width_in": 16.7,
+      "web_thickness_in": 0.95,
+      "flange_thickness_in": 1.68,
+      "Ix_in4": 21100,
+      "Sx_in3": 1130
+    },
+    {
+      "id": "W36X318",
+      "weight_lb_per_ft": 318,
+      "depth_in": 38.2,
+      "flange_width_in": 12.4,
+      "web_thickness_in": 1.18,
+      "flange_thickness_in": 2.13,
+      "Ix_in4": 21200,
+      "Sx_in3": 1110
+    },
+    {
+      "id": "W36X330",
+      "weight_lb_per_ft": 330,
+      "depth_in": 37.7,
+      "flange_width_in": 16.6,
+      "web_thickness_in": 1.02,
+      "flange_thickness_in": 1.85,
+      "Ix_in4": 23300,
+      "Sx_in3": 1240
+    },
+    {
+      "id": "W36X350",
+      "weight_lb_per_ft": 350,
+      "depth_in": 38.6,
+      "flange_width_in": 12.6,
+      "web_thickness_in": 1.3,
+      "flange_thickness_in": 2.32,
+      "Ix_in4": 23600,
+      "Sx_in3": 1220
+    },
+    {
+      "id": "W36X361",
+      "weight_lb_per_ft": 361,
+      "depth_in": 38,
+      "flange_width_in": 16.7,
+      "web_thickness_in": 1.12,
+      "flange_thickness_in": 2.01,
+      "Ix_in4": 25700,
+      "Sx_in3": 1350
+    },
+    {
+      "id": "W36X387",
+      "weight_lb_per_ft": 387,
+      "depth_in": 39.1,
+      "flange_width_in": 12.7,
+      "web_thickness_in": 1.42,
+      "flange_thickness_in": 2.56,
+      "Ix_in4": 26500,
+      "Sx_in3": 1360
+    },
+    {
+      "id": "W36X395",
+      "weight_lb_per_ft": 395,
+      "depth_in": 38.4,
+      "flange_width_in": 16.8,
+      "web_thickness_in": 1.22,
+      "flange_thickness_in": 2.2,
+      "Ix_in4": 28500,
+      "Sx_in3": 1490
+    },
+    {
+      "id": "W36X441",
+      "weight_lb_per_ft": 441,
+      "depth_in": 38.9,
+      "flange_width_in": 17,
+      "web_thickness_in": 1.36,
+      "flange_thickness_in": 2.44,
+      "Ix_in4": 32100,
+      "Sx_in3": 1650
+    },
+    {
+      "id": "W36X487",
+      "weight_lb_per_ft": 487,
+      "depth_in": 39.3,
+      "flange_width_in": 17.1,
+      "web_thickness_in": 1.5,
+      "flange_thickness_in": 2.68,
+      "Ix_in4": 36000,
+      "Sx_in3": 1830
+    },
+    {
+      "id": "W36X529",
+      "weight_lb_per_ft": 529,
+      "depth_in": 39.8,
+      "flange_width_in": 17.2,
+      "web_thickness_in": 1.61,
+      "flange_thickness_in": 2.91,
+      "Ix_in4": 39600,
+      "Sx_in3": 1990
+    },
+    {
+      "id": "W36X652",
+      "weight_lb_per_ft": 652,
+      "depth_in": 41.1,
+      "flange_width_in": 17.6,
+      "web_thickness_in": 1.97,
+      "flange_thickness_in": 3.54,
+      "Ix_in4": 50600,
+      "Sx_in3": 2460
+    },
+    {
+      "id": "W36X723",
+      "weight_lb_per_ft": 723,
+      "depth_in": 41.8,
+      "flange_width_in": 17.8,
+      "web_thickness_in": 2.17,
+      "flange_thickness_in": 3.9,
+      "Ix_in4": 57300,
+      "Sx_in3": 2740
+    },
+    {
+      "id": "W36X802",
+      "weight_lb_per_ft": 802,
+      "depth_in": 42.6,
+      "flange_width_in": 18,
+      "web_thickness_in": 2.38,
+      "flange_thickness_in": 4.29,
+      "Ix_in4": 64800,
+      "Sx_in3": 3040
+    },
+    {
+      "id": "W36X853",
+      "weight_lb_per_ft": 853,
+      "depth_in": 43.1,
+      "flange_width_in": 18.2,
+      "web_thickness_in": 2.52,
+      "flange_thickness_in": 4.53,
+      "Ix_in4": 70000,
+      "Sx_in3": 3250
+    },
+    {
+      "id": "W36X925",
+      "weight_lb_per_ft": 925,
+      "depth_in": 43.1,
+      "flange_width_in": 18.6,
+      "web_thickness_in": 3.02,
+      "flange_thickness_in": 4.53,
+      "Ix_in4": 73000,
+      "Sx_in3": 3390
+    },
+    {
+      "id": "W40X149",
+      "weight_lb_per_ft": 149,
+      "depth_in": 38.2,
+      "flange_width_in": 11.8,
+      "web_thickness_in": 0.63,
+      "flange_thickness_in": 0.83,
+      "Ix_in4": 9800,
+      "Sx_in3": 513
+    },
+    {
+      "id": "W40X167",
+      "weight_lb_per_ft": 167,
+      "depth_in": 38.6,
+      "flange_width_in": 11.8,
+      "web_thickness_in": 0.65,
+      "flange_thickness_in": 1.03,
+      "Ix_in4": 11600,
+      "Sx_in3": 600
+    },
+    {
+      "id": "W40X183",
+      "weight_lb_per_ft": 183,
+      "depth_in": 39,
+      "flange_width_in": 11.8,
+      "web_thickness_in": 0.65,
+      "flange_thickness_in": 1.2,
+      "Ix_in4": 13200,
+      "Sx_in3": 675
+    },
+    {
+      "id": "W40X199",
+      "weight_lb_per_ft": 199,
+      "depth_in": 38.7,
+      "flange_width_in": 15.8,
+      "web_thickness_in": 0.65,
+      "flange_thickness_in": 1.07,
+      "Ix_in4": 14900,
+      "Sx_in3": 770
+    },
+    {
+      "id": "W40X211",
+      "weight_lb_per_ft": 211,
+      "depth_in": 39.4,
+      "flange_width_in": 11.8,
+      "web_thickness_in": 0.75,
+      "flange_thickness_in": 1.42,
+      "Ix_in4": 15500,
+      "Sx_in3": 786
+    },
+    {
+      "id": "W40X215",
+      "weight_lb_per_ft": 215,
+      "depth_in": 39,
+      "flange_width_in": 15.8,
+      "web_thickness_in": 0.65,
+      "flange_thickness_in": 1.22,
+      "Ix_in4": 16700,
+      "Sx_in3": 859
+    },
+    {
+      "id": "W40X235",
+      "weight_lb_per_ft": 235,
+      "depth_in": 39.7,
+      "flange_width_in": 11.9,
+      "web_thickness_in": 0.83,
+      "flange_thickness_in": 1.58,
+      "Ix_in4": 17400,
+      "Sx_in3": 875
+    },
+    {
+      "id": "W40X249",
+      "weight_lb_per_ft": 249,
+      "depth_in": 39.4,
+      "flange_width_in": 15.8,
+      "web_thickness_in": 0.75,
+      "flange_thickness_in": 1.42,
+      "Ix_in4": 19600,
+      "Sx_in3": 993
+    },
+    {
+      "id": "W40X264",
+      "weight_lb_per_ft": 264,
+      "depth_in": 40,
+      "flange_width_in": 11.9,
+      "web_thickness_in": 0.96,
+      "flange_thickness_in": 1.73,
+      "Ix_in4": 19400,
+      "Sx_in3": 971
+    },
+    {
+      "id": "W40X277",
+      "weight_lb_per_ft": 277,
+      "depth_in": 39.7,
+      "flange_width_in": 15.8,
+      "web_thickness_in": 0.83,
+      "flange_thickness_in": 1.58,
+      "Ix_in4": 21900,
+      "Sx_in3": 1100
+    },
+    {
+      "id": "W40X278",
+      "weight_lb_per_ft": 278,
+      "depth_in": 40.2,
+      "flange_width_in": 12,
+      "web_thickness_in": 1.03,
+      "flange_thickness_in": 1.81,
+      "Ix_in4": 20500,
+      "Sx_in3": 1020
+    },
+    {
+      "id": "W40X294",
+      "weight_lb_per_ft": 294,
+      "depth_in": 40.4,
+      "flange_width_in": 12,
+      "web_thickness_in": 1.06,
+      "flange_thickness_in": 1.93,
+      "Ix_in4": 21900,
+      "Sx_in3": 1080
+    },
+    {
+      "id": "W40X297",
+      "weight_lb_per_ft": 297,
+      "depth_in": 39.8,
+      "flange_width_in": 15.8,
+      "web_thickness_in": 0.93,
+      "flange_thickness_in": 1.65,
+      "Ix_in4": 23200,
+      "Sx_in3": 1170
+    },
+    {
+      "id": "W40X324",
+      "weight_lb_per_ft": 324,
+      "depth_in": 40.2,
+      "flange_width_in": 15.9,
+      "web_thickness_in": 1,
+      "flange_thickness_in": 1.81,
+      "Ix_in4": 25600,
+      "Sx_in3": 1280
+    },
+    {
+      "id": "W40X327",
+      "weight_lb_per_ft": 327,
+      "depth_in": 40.8,
+      "flange_width_in": 12.1,
+      "web_thickness_in": 1.18,
+      "flange_thickness_in": 2.13,
+      "Ix_in4": 24500,
+      "Sx_in3": 1200
+    },
+    {
+      "id": "W40X331",
+      "weight_lb_per_ft": 331,
+      "depth_in": 40.8,
+      "flange_width_in": 12.2,
+      "web_thickness_in": 1.22,
+      "flange_thickness_in": 2.13,
+      "Ix_in4": 24700,
+      "Sx_in3": 1210
+    },
+    {
+      "id": "W40X362",
+      "weight_lb_per_ft": 362,
+      "depth_in": 40.6,
+      "flange_width_in": 16,
+      "web_thickness_in": 1.12,
+      "flange_thickness_in": 2.01,
+      "Ix_in4": 28900,
+      "Sx_in3": 1420
+    },
+    {
+      "id": "W40X372",
+      "weight_lb_per_ft": 372,
+      "depth_in": 40.6,
+      "flange_width_in": 16.1,
+      "web_thickness_in": 1.16,
+      "flange_thickness_in": 2.05,
+      "Ix_in4": 29600,
+      "Sx_in3": 1460
+    },
+    {
+      "id": "W40X392",
+      "weight_lb_per_ft": 392,
+      "depth_in": 41.6,
+      "flange_width_in": 12.4,
+      "web_thickness_in": 1.42,
+      "flange_thickness_in": 2.52,
+      "Ix_in4": 29900,
+      "Sx_in3": 1440
+    },
+    {
+      "id": "W40X397",
+      "weight_lb_per_ft": 397,
+      "depth_in": 41,
+      "flange_width_in": 16.1,
+      "web_thickness_in": 1.22,
+      "flange_thickness_in": 2.2,
+      "Ix_in4": 32000,
+      "Sx_in3": 1560
+    },
+    {
+      "id": "W40X431",
+      "weight_lb_per_ft": 431,
+      "depth_in": 41.3,
+      "flange_width_in": 16.2,
+      "web_thickness_in": 1.34,
+      "flange_thickness_in": 2.36,
+      "Ix_in4": 34800,
+      "Sx_in3": 1690
+    },
+    {
+      "id": "W40X503",
+      "weight_lb_per_ft": 503,
+      "depth_in": 42.1,
+      "flange_width_in": 16.4,
+      "web_thickness_in": 1.54,
+      "flange_thickness_in": 2.76,
+      "Ix_in4": 41600,
+      "Sx_in3": 1980
+    },
+    {
+      "id": "W40X593",
+      "weight_lb_per_ft": 593,
+      "depth_in": 43,
+      "flange_width_in": 16.7,
+      "web_thickness_in": 1.79,
+      "flange_thickness_in": 3.23,
+      "Ix_in4": 50400,
+      "Sx_in3": 2340
+    },
+    {
+      "id": "W40X655",
+      "weight_lb_per_ft": 655,
+      "depth_in": 43.6,
+      "flange_width_in": 16.9,
+      "web_thickness_in": 1.97,
+      "flange_thickness_in": 3.54,
+      "Ix_in4": 56500,
+      "Sx_in3": 2590
+    },
+    {
+      "id": "W44X230",
+      "weight_lb_per_ft": 230,
+      "depth_in": 42.9,
+      "flange_width_in": 15.8,
+      "web_thickness_in": 0.71,
+      "flange_thickness_in": 1.22,
+      "Ix_in4": 20800,
+      "Sx_in3": 971
+    },
+    {
+      "id": "W44X262",
+      "weight_lb_per_ft": 262,
+      "depth_in": 43.3,
+      "flange_width_in": 15.8,
+      "web_thickness_in": 0.79,
+      "flange_thickness_in": 1.42,
+      "Ix_in4": 24100,
+      "Sx_in3": 1110
+    },
+    {
+      "id": "W44X290",
+      "weight_lb_per_ft": 290,
+      "depth_in": 43.6,
+      "flange_width_in": 15.8,
+      "web_thickness_in": 0.87,
+      "flange_thickness_in": 1.58,
+      "Ix_in4": 27000,
+      "Sx_in3": 1240
+    },
+    {
+      "id": "W44X335",
+      "weight_lb_per_ft": 335,
+      "depth_in": 44,
+      "flange_width_in": 15.9,
+      "web_thickness_in": 1.03,
+      "flange_thickness_in": 1.77,
+      "Ix_in4": 31100,
+      "Sx_in3": 1410
+    },
+    {
+      "id": "W44X368",
+      "weight_lb_per_ft": 368,
+      "depth_in": 44.4,
+      "flange_width_in": 16,
+      "web_thickness_in": 1.1,
+      "flange_thickness_in": 1.97,
+      "Ix_in4": 34700,
+      "Sx_in3": 1560
+    },
+    {
+      "id": "W44X408",
+      "weight_lb_per_ft": 408,
+      "depth_in": 44.8,
+      "flange_width_in": 16.1,
+      "web_thickness_in": 1.22,
+      "flange_thickness_in": 2.17,
+      "Ix_in4": 38700,
+      "Sx_in3": 1730
+    }
+  ]
+}
