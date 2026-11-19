@@ -6,3 +6,5 @@
 - Asked to build the beam-property database. Added an AISC v16.0 W-shape catalog and common 2x lumber section geometry with source metadata; clarified the lumber material-property limitation in the data README and specification. Worked: catalog files generated and validation is in progress.
 - Asked to write the app code. Implemented the single-file beam analyzer in `index.html`, with catalog loading, beam/load inputs, reactions, shear/moment/deflection diagrams, checks, and responsive styling. Worked: browser checks matched the spec example, a cantilever point-load case, and the lumber section workflow.
 - Asked to make the app live on GitHub. Checked the repository and found no Git remote or commit history; deployment is blocked until a destination repository is provided. Worked: not yet deployed.
+- Asked to try the GitHub deployment again. Re-requested a destination repository; the destination prompt was cancelled again. Worked: not yet deployed.
+- Asked to set the Git user name and email. Updated global Git configuration to `dougjjenkins` and `dougjen@byu.edu`. Worked: verified both values.
