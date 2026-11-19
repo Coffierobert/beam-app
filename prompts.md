@@ -9,3 +9,4 @@
 - Asked to try the GitHub deployment again. Re-requested a destination repository; the destination prompt was cancelled again. Worked: not yet deployed.
 - Asked to set the Git user name and email. Updated global Git configuration to `dougjjenkins` and `dougjen@byu.edu`. Worked: verified both values.
 - Asked to host the app on GitHub Pages. Located the public `dougjjenkins55/beam_app` repo, added and pushed a Pages workflow that publishes only the app and data catalogs, and documented the `.github/` hosting exception. Worked: GitHub recognizes the workflow, but Pages is not enabled yet (site endpoint returns 404).
+- Asked again to host the app. Rechecked GitHub: Pages is still disabled and the deployment workflow fails at its Pages setup step. Worked: not yet live; needs the repository's Pages source enabled.
