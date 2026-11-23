@@ -3,31 +3,31 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#f7f4ec">
+    <meta name="theme-color" content="#f4efff">
     <title>Beam Designer</title>
     <style>
       :root {
         color-scheme: light;
-        font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-        color: #193044;
-        background: #f7f4ec;
+        font-family: "Avenir Next", ui-rounded, Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        color: #29243b;
+        background: #f4efff;
         font-synthesis: none;
         text-rendering: optimizeLegibility;
-        --ink: #193044;
-        --muted: #60717b;
-        --line: #ded8c9;
-        --blue: #167b86;
-        --blue-dark: #105d66;
-        --blue-soft: #e6f3f1;
-        --accent: #e9783d;
-        --accent-dark: #c85c29;
+        --ink: #29243b;
+        --muted: #6c6680;
+        --line: #e2d9ed;
+        --blue: #6856b5;
+        --blue-dark: #504090;
+        --blue-soft: #efeaff;
+        --accent: #ff8757;
+        --accent-dark: #e2673c;
         --green: #287348;
         --green-soft: #eaf5e9;
         --red: #a33131;
         --red-soft: #fff0ef;
-        --amber: #815522;
-        --amber-soft: #fff3dc;
-        --card: #fffdf8;
+        --amber: #76541e;
+        --amber-soft: #fff4d5;
+        --card: #fffefa;
       }
 
       * {
@@ -37,9 +37,9 @@
       body {
         margin: 0;
         min-width: 320px;
-        background-color: #f7f4ec;
-        background-image: radial-gradient(#d8d2c3 0.75px, transparent 0.75px);
-        background-size: 22px 22px;
+        background-color: #f4efff;
+        background-image: radial-gradient(#d9cfee 0.9px, transparent 0.9px);
+        background-size: 24px 24px;
       }
 
       button,
@@ -58,12 +58,12 @@
         isolation: isolate;
         padding: 28px clamp(18px, 4vw, 56px) 25px;
         color: #fff;
-        background-color: #174c58;
+        background-color: #423278;
         background-image:
-          linear-gradient(#ffffff0d 1px, transparent 1px),
-          linear-gradient(90deg, #ffffff0d 1px, transparent 1px),
-          linear-gradient(120deg, #173b50, #167b86);
-        background-size: 28px 28px, 28px 28px, cover;
+          linear-gradient(#ffffff12 1px, transparent 1px),
+          linear-gradient(90deg, #ffffff12 1px, transparent 1px),
+          linear-gradient(125deg, #302653, #6952ad);
+        background-size: 30px 30px, 30px 30px, cover;
       }
 
       .page-header::after {
@@ -73,9 +73,9 @@
         right: 7%;
         width: 390px;
         height: 390px;
-        border: 1px solid #ffffff24;
+        border: 2px solid #f6df8066;
         border-radius: 50%;
-        box-shadow: 0 0 0 28px #ffffff0a, 0 0 0 58px #ffffff08;
+        box-shadow: 0 0 0 28px #f6df8014, 0 0 0 58px #ffffff0a;
         content: "";
         pointer-events: none;
       }
@@ -94,12 +94,17 @@
         gap: 20px;
       }
 
+      .header-inner {
+        position: relative;
+        z-index: 1;
+      }
+
       .brand-kicker {
         display: inline-flex;
         align-items: center;
         gap: 7px;
         margin-bottom: 5px;
-        color: #bce7dc;
+        color: #f8e98e;
         font-size: 0.7rem;
         font-weight: 800;
         letter-spacing: 0.14em;
@@ -110,7 +115,7 @@
         width: 8px;
         height: 8px;
         border-radius: 2px;
-        background: #f5a46d;
+        background: #ff9a67;
         content: "";
         transform: rotate(45deg);
       }
@@ -118,26 +123,28 @@
       h1 {
         margin: 0;
         font-size: clamp(1.7rem, 3vw, 2.25rem);
+        font-weight: 850;
         letter-spacing: -0.035em;
-        text-shadow: 0 2px 0 #102f3b;
+        text-shadow: 0 3px 0 #211b3c;
       }
 
       .page-header p {
         max-width: 690px;
         margin: 8px 0 0;
-        color: #d8e7f8;
+        color: #eee8ff;
         line-height: 1.5;
       }
 
       .header-tag {
         padding: 7px 11px;
-        border: 1px solid #ffc08f99;
+        border: 1px solid #ffe27a;
         border-radius: 999px;
-        color: #fff4e8;
-        background: #102f3b55;
+        color: #3a2a62;
+        background: #ffe27a;
         font-size: 0.8rem;
-        font-weight: 700;
+        font-weight: 800;
         white-space: nowrap;
+        box-shadow: 0 3px 0 #c9a83b;
       }
 
       main {
@@ -153,9 +160,9 @@
       .plot-card,
       .summary-card {
         border: 1px solid var(--line);
-        border-radius: 16px;
+        border-radius: 20px;
         background: var(--card);
-        box-shadow: 0 7px 20px #1930440d;
+        box-shadow: 0 5px 0 #e0d8ef, 0 12px 24px #29243b12;
       }
 
       .controls {
@@ -238,8 +245,8 @@
         min-width: 0;
         height: 39px;
         padding: 8px 10px;
-        border: 1px solid #cbd5e1;
-        border-radius: 8px;
+        border: 1px solid #d5cce4;
+        border-radius: 10px;
         color: var(--ink);
         background: #fff;
         font-size: 0.91rem;
@@ -382,9 +389,9 @@
         justify-content: center;
         min-height: 39px;
         padding: 8px 12px;
-        border: 1px solid #b8cfc9;
-        border-radius: 8px;
-        color: #155e66;
+        border: 1px solid #c9bee4;
+        border-radius: 10px;
+        color: #51418e;
         background: #fffdf8;
         font-size: 0.84rem;
         font-weight: 680;
@@ -392,7 +399,7 @@
       }
 
       .button:hover {
-        background: #eaf5f2;
+        background: #f3efff;
         box-shadow: 0 3px 8px #19304414;
         transform: translateY(-1px);
       }
@@ -404,10 +411,13 @@
         color: #fff;
         background: var(--accent);
         font-size: 0.94rem;
+        box-shadow: 0 4px 0 #ce603a;
       }
 
       .button.primary:hover {
         background: var(--accent-dark);
+        box-shadow: 0 3px 0 #b94c2b;
+        transform: translateY(1px);
       }
 
       .button.text {
@@ -431,10 +441,10 @@
 
       .status {
         padding: 12px 15px;
-        border: 1px solid #bbdcd4;
+        border: 1px solid #d3c7f1;
         border-radius: 10px;
-        color: #205a5a;
-        background: #edf7f0;
+        color: #51418e;
+        background: #f0ecff;
         font-size: 0.87rem;
         line-height: 1.45;
       }
@@ -511,7 +521,7 @@
 
       .plot-card {
         overflow: hidden;
-        background-image: linear-gradient(#d7dfd422 1px, transparent 1px), linear-gradient(90deg, #d7dfd422 1px, transparent 1px);
+        background-image: linear-gradient(#d7cdeb2b 1px, transparent 1px), linear-gradient(90deg, #d7cdeb2b 1px, transparent 1px);
         background-size: 24px 24px;
       }
 
@@ -623,11 +633,11 @@
 
       .safety-note {
         padding: 12px 15px;
-        border: 1px solid #f1d3a8;
+        border: 1px solid #f3d9a1;
         border-left: 4px solid var(--accent);
         border-radius: 9px;
-        color: #735324;
-        background: #fff6e8;
+        color: #725326;
+        background: #fff7e2;
         font-size: 0.79rem;
         line-height: 1.5;
       }
@@ -701,11 +711,11 @@
     <header class="page-header">
       <div class="header-inner brand-row">
         <div>
-          <div class="brand-kicker">Your friendly structural sketchpad</div>
+          <div class="brand-kicker">Beam lab · build, load, explore</div>
           <h1>Beam Designer</h1>
-          <p>Set your span, add the loads, and see how your beam responds: reactions, shear, moment, and deflection in one place.</p>
+          <p>Set the span, stack on loads, and watch your beam react: reactions, shear, moment, and deflection, all in one place.</p>
         </div>
-        <span class="header-tag"><span aria-hidden="true">🦺</span> Beam lab</span>
+        <span class="header-tag"><span aria-hidden="true">🦺</span> Let's load it up!</span>
       </div>
     </header>
 
